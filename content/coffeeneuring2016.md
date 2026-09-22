@@ -9,7 +9,7 @@ type = "page"
 
 In 2016 I participated in the <a href="https://chasingmailboxes.com/2016/09/17/6th-annual-coffeeneuring-challenge-the-spirit-of-coffeeneuring/">Chasing Mailboxes Coffeeneuring Challenge</a>, a&nbsp;"a relaxed cycling endeavor for people everywhere."<br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV2E8jXGCk82oNOTHv4g00N8P6f6-cY9A8T0ea86CePv_myokLRT1EFIUCajhK8kwjaJ9J2cLCUIK9BVUyGMtvxlcAuwKgyUCqFm6iLS-XjXQHomWP_cFasD43wSQPytMdrqA_AFSscaU/s1600/20161029_155723_HDR.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV2E8jXGCk82oNOTHv4g00N8P6f6-cY9A8T0ea86CePv_myokLRT1EFIUCajhK8kwjaJ9J2cLCUIK9BVUyGMtvxlcAuwKgyUCqFm6iLS-XjXQHomWP_cFasD43wSQPytMdrqA_AFSscaU/s640/20161029_155723_HDR.jpg" width="640" /></a></div>
+<a href="/images/20161029_155723_HDR.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="360" src="/images/20161029_155723_HDR.jpg" width="640" /></a></div>
 <br />
 <br />
 These are reports from the rides I did:<br />

@@ -16,21 +16,21 @@ To get to EVP in time, I took the slightly-longer-but-pretty route: Going over t
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTnmlhJICA_EeV2avk5_yfFMZ8Xss9awWPQiCvdmfLM94HCsJddyBAuVY4-b3Rvty4fx887CaFGGLbgQ7hM5I_esV9RGLHMvGauL40pJRuf59gCNwE9WiYHeTScPvaoquvLHQisYejQa0/s1600/20161017_064117.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTnmlhJICA_EeV2avk5_yfFMZ8Xss9awWPQiCvdmfLM94HCsJddyBAuVY4-b3Rvty4fx887CaFGGLbgQ7hM5I_esV9RGLHMvGauL40pJRuf59gCNwE9WiYHeTScPvaoquvLHQisYejQa0/s640/20161017_064117.jpg" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/20161017_064117.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="360" src="/images/20161017_064117.jpg" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">I realized I still had a gift certificate from 2015...</td></tr>
 </tbody></table>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgcuSt0FmzbWa9Tj1D2lUx-Ohx8PLW6Ad8r25b8txf6I82QBSxunORUylz1F8DDNO-OER4d8Jgb7oR5-bbNeKN6l8elM7LQIqt64MT_KtqVGM8Wzl2hkLyc-9iio9yxz0CrUEfiRL-7Y4/s1600/20161017_064035.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgcuSt0FmzbWa9Tj1D2lUx-Ohx8PLW6Ad8r25b8txf6I82QBSxunORUylz1F8DDNO-OER4d8Jgb7oR5-bbNeKN6l8elM7LQIqt64MT_KtqVGM8Wzl2hkLyc-9iio9yxz0CrUEfiRL-7Y4/s640/20161017_064035.jpg" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/20161017_064035.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="360" src="/images/20161017_064035.jpg" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Cozy interior</td></tr>
 </tbody></table>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR8nKjI7Dz3z1hY4VuF6SnPPdKp8Oyv0If5qckHeVM40EyMzu7Yv5D54Y4XU0-aAbwxUilxWjdhYHREvEyBGUnSEOFb6PHP8GRm9pTP7CNkpD4rW2Ci7BS5y-mICU0y5e0i2jMmOHET6w/s1600/20161017_073328.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR8nKjI7Dz3z1hY4VuF6SnPPdKp8Oyv0If5qckHeVM40EyMzu7Yv5D54Y4XU0-aAbwxUilxWjdhYHREvEyBGUnSEOFb6PHP8GRm9pTP7CNkpD4rW2Ci7BS5y-mICU0y5e0i2jMmOHET6w/s640/20161017_073328.jpg" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/20161017_073328.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="360" src="/images/20161017_073328.jpg" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Pretty but noisy patio</td></tr>
 </tbody></table>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY3uQ2uf7K5GzroXy4r70veZZeAO23hF9wMQZkBiwq7BlUjk_3n-0-Bb-Ib4uT2fo8b4toGvvf5BvEXSnlbaMRvRyFLSiJiS5vXXEoAx4iPGU3J1N0MwBPeoHHV-ykoB5BD5R3VjGaT2g/s1600/20161017_074902.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY3uQ2uf7K5GzroXy4r70veZZeAO23hF9wMQZkBiwq7BlUjk_3n-0-Bb-Ib4uT2fo8b4toGvvf5BvEXSnlbaMRvRyFLSiJiS5vXXEoAx4iPGU3J1N0MwBPeoHHV-ykoB5BD5R3VjGaT2g/s640/20161017_074902.jpg" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/20161017_074902.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="360" src="/images/20161017_074902.jpg" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">A calm Lake Mendota</td></tr>
 </tbody></table>
 <div class="separator" style="clear: both; text-align: center;">

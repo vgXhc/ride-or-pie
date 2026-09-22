@@ -58,7 +58,7 @@ I held my judgment about these tires last year, but as I've kept riding them all
 <h3>
 Gunnar Rockhound 26" MTB</h3>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGlfndoL7-CJjYcKVEZPvYfo3UPuESkME6v7UDCSIUDCTLlg6_GvtbiXlP0HPzj4UHI-WLXvea69g8XkTNaOHJJZemTDgTP4sLCzOZZVeSMe6Kzlw2nvj3qDvL_iVE2rvGCn4LU3jfGp8/s1600/DSC01574.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1067" data-original-width="1600" height="426" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGlfndoL7-CJjYcKVEZPvYfo3UPuESkME6v7UDCSIUDCTLlg6_GvtbiXlP0HPzj4UHI-WLXvea69g8XkTNaOHJJZemTDgTP4sLCzOZZVeSMe6Kzlw2nvj3qDvL_iVE2rvGCn4LU3jfGp8/s640/DSC01574.jpg" width="640" /></a></div>
+<a href="/images/DSC01574.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1067" data-original-width="1600" height="426" src="/images/DSC01574.jpg" width="640" /></a></div>
 &nbsp;I spontaneously bought a used Gunnar MTB last winter. I got it for a good price and have since converted it from the weird narrow 29er build back to its original 26" configuration. The bike rides really nice on the local trails and I'm much faster compared to my Surly fat bike -- but I probably just don't MTB enough to justify keeping the bike. So despite it being a "liked," I'll probably sell it next spring.<br />
 <h3>
 <a href="https://amzn.to/2QdxTyV">Pro Bike Tool Mini Pump </a></h3>
@@ -101,7 +101,7 @@ detours to get from point A to point B.<br />
 A very recent but already liked purchase is this set of fancy hex keys. The color coding is great, they feel nice in your hand, and supposedly the hex plus shape of the heads reduces the risk of stripping screw heads. Well worth the 30 bucks.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhShN4Wbwn2Yski9jQUafO7yZKnJnEBmfvpv6K8KrjcCrEz3ojihn0eJ1PJPOE_cA9s7lqXWHA-kyRq8Bkj1wvqZzeCUGvsyaIdMKLZXnZZWI2srpjjOe5h1J60w1ldDMuIObSVRwl3nSU/s1600/IMG_20191220_081902611.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="1600" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhShN4Wbwn2Yski9jQUafO7yZKnJnEBmfvpv6K8KrjcCrEz3ojihn0eJ1PJPOE_cA9s7lqXWHA-kyRq8Bkj1wvqZzeCUGvsyaIdMKLZXnZZWI2srpjjOe5h1J60w1ldDMuIObSVRwl3nSU/s640/IMG_20191220_081902611.jpg" width="640" /></a></div>
+<a href="/images/IMG_20191220_081902611.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="1600" height="480" src="/images/IMG_20191220_081902611.jpg" width="640" /></a></div>
 <br />
 <h2>
 Disliked</h2>
@@ -134,9 +134,9 @@ The next try to replace the Mavis was with Giro Republic LX shoes. These are the
 <br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhLz13x5QnkT187x4-o0rZrPsAjQSip4FjhvB3fuvkr1EyYOJ-oqpLGyA0B1WFoEUaq0Pu6xKeQ7nOakwwKySQ9ZPxMHQNLJokuwtEu9YO4y_9jHnSrZmA4MyiZKz5m5B55kIoBDZb_FI/s1600/DSC03838.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1600" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhLz13x5QnkT187x4-o0rZrPsAjQSip4FjhvB3fuvkr1EyYOJ-oqpLGyA0B1WFoEUaq0Pu6xKeQ7nOakwwKySQ9ZPxMHQNLJokuwtEu9YO4y_9jHnSrZmA4MyiZKz5m5B55kIoBDZb_FI/s400/DSC03838.jpg" width="400" />&nbsp;</a></div>
+<a href="/images/DSC03838.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1600" height="400" src="/images/DSC03838.jpg" width="400" />&nbsp;</a></div>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9_VO0gq9JtI21Oms2eNWulQE7jJZRErZbhp_HKDbOQH1hsBgjZk_x-BGQxKvQP5aSCUMYzQlFHxmSWnB6-0u_Gm24NzNID9W1sIY_mdERSks4d9i1f0cHdA-vwWTiFApsxxwT0fSk5f4/s1600/DSC03841-2.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1600" data-original-width="1600" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9_VO0gq9JtI21Oms2eNWulQE7jJZRErZbhp_HKDbOQH1hsBgjZk_x-BGQxKvQP5aSCUMYzQlFHxmSWnB6-0u_Gm24NzNID9W1sIY_mdERSks4d9i1f0cHdA-vwWTiFApsxxwT0fSk5f4/s400/DSC03841-2.jpg" width="400" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/DSC03841-2.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1600" data-original-width="1600" height="400" src="/images/DSC03841-2.jpg" width="400" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Much reflection!</td></tr>
 </tbody></table>
 <div class="separator" style="clear: both; text-align: center;">

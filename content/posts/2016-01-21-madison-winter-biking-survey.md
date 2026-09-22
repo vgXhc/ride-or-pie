@@ -8,7 +8,7 @@ tags = ["Madison", "winter", "survey", "advocacy"]
 +++
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyE3KlTjz7rIRXE9UlE4P2lkTA-Mhv8gxkqe8ma-btVQVUXj1drCrYk8YDy5QwOkUgdpdOs-7RQAE1DCC_Mcx4ZFm4PbR8j1TME4XwgRHkvF_qLqZmfxNs729SYFLHMx3lQBDj5MPhJfQ/s1600/20151230_085554_HDR.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyE3KlTjz7rIRXE9UlE4P2lkTA-Mhv8gxkqe8ma-btVQVUXj1drCrYk8YDy5QwOkUgdpdOs-7RQAE1DCC_Mcx4ZFm4PbR8j1TME4XwgRHkvF_qLqZmfxNs729SYFLHMx3lQBDj5MPhJfQ/s640/20151230_085554_HDR.jpg" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/20151230_085554_HDR.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="360" src="/images/20151230_085554_HDR.jpg" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Bike racks in front of the Wisconsin Institute for Medical Research</td></tr>
 </tbody></table>
 <br />

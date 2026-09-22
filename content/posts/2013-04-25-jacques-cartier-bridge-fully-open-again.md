@@ -8,13 +8,13 @@ tags = ["construction", "detour", "Jacques Cartier Bridge", "Montreal"]
 +++
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYg50wyB_RA62HOeu-ZFxK9SWBQMSVo8Xl_XoI6nJxJIib2Bl3n3P3EVnRFofufIxzP2PY_iBlr-XqT6wuPdwKaJFQuhGZK_Xx4sZmm-J-MzxsEHYbOhV7Wvowk6lqQYzy-JQOatdAAIg/s1600/IMG_0344.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYg50wyB_RA62HOeu-ZFxK9SWBQMSVo8Xl_XoI6nJxJIib2Bl3n3P3EVnRFofufIxzP2PY_iBlr-XqT6wuPdwKaJFQuhGZK_Xx4sZmm-J-MzxsEHYbOhV7Wvowk6lqQYzy-JQOatdAAIg/s400/IMG_0344.jpg" width="317" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/IMG_0344.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="400" src="/images/IMG_0344.jpg" width="317" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Jacques Cartier Bridge at dusk</td></tr>
 </tbody></table>
 The Jacques Cartier Bridge is a vital link between the island of Montreal and the South Shore. To the chagrin of many bike commuters the bridge is closed during the winter, but at least  "The Jacques Cartier and Champlain Bridges Incorporated" which manages the bridges is much better than the city of Montreal in closing the bridge as late in the season as possible and reopening as early as possible. This year's opening date was March 26 but until now the southern approach to the bike path was closed. This meant that one had to go up or down a steep, long set of stairs to get on and off the bridge, making the bridge practically unusable for a number of cyclists.<br />
 <br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9HIQTgqY_uc77e3AA-BmDb6cxdUnU7zsLkBy7YbRiJPnm3EG9bVdcwwBwXcon20WdHB2X8AP6L5emmqw92Qz6xtH7yFFDxeRoEE74FsSvxHvpD3RhOw69rhEb_zg971eNPp-V9e8Wzrg/s1600/IMG_0473.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="310" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9HIQTgqY_uc77e3AA-BmDb6cxdUnU7zsLkBy7YbRiJPnm3EG9bVdcwwBwXcon20WdHB2X8AP6L5emmqw92Qz6xtH7yFFDxeRoEE74FsSvxHvpD3RhOw69rhEb_zg971eNPp-V9e8Wzrg/s400/IMG_0473.jpg" width="400" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/IMG_0473.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="310" src="/images/IMG_0473.jpg" width="400" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Bike path on the bridge</td></tr>
 </tbody></table>
 <br />

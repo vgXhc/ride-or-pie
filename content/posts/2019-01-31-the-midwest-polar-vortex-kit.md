@@ -8,7 +8,7 @@ tags = ["review", "winter"]
 +++
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrSyWdUZkHuoHrb5yvCDoumyuSyuc-sOIJzyZ7jtOJxag6vfvfK-qz6Inr3qFYaQk-iEFr1B8Qn-7gEW6p5EU1t8VNnhuLXxQAhXnYJlYImJ0xd7-werbdecuz9DXhAf2oY1kztUOFgQ8/s1600/DSC01395.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1067" data-original-width="1600" height="426" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrSyWdUZkHuoHrb5yvCDoumyuSyuc-sOIJzyZ7jtOJxag6vfvfK-qz6Inr3qFYaQk-iEFr1B8Qn-7gEW6p5EU1t8VNnhuLXxQAhXnYJlYImJ0xd7-werbdecuz9DXhAf2oY1kztUOFgQ8/s640/DSC01395.jpg" width="640" /></a></div>
+<a href="/images/DSC01395.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1067" data-original-width="1600" height="426" src="/images/DSC01395.jpg" width="640" /></a></div>
 <br />
 We're having record cold temperatures in Madison over the past two days: air temperatures below -30°C (-22°F), combined with a nasty wind to make things feel even colder. I've ridden in some very cold temperatures, but this was clearly a new low. As I have gotten frostbite before (not recommended!) I've been very careful about limiting the risks of being outside. I've kept ride short and dressed warmly. So what does my kit look like for a 6 kilometer (3.7 miles) ride look like? Like so:<br />
 <br />
@@ -46,5 +46,5 @@ Weak spots:<br />
 </ul>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikDTK-21oGg1s9zNnENZBtT8GF47zPUVMI9bwDTycGUC20Ed98ZtlsJpYBxDBmKfXD6MU6eAoKI-RUkUB9RiunxSZNXTg5OswwAN4ew5CIkW-lVxxeL-sOXehfrTEj7scIz_v9cpZNmo8/s1600/DSC01403.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1068" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikDTK-21oGg1s9zNnENZBtT8GF47zPUVMI9bwDTycGUC20Ed98ZtlsJpYBxDBmKfXD6MU6eAoKI-RUkUB9RiunxSZNXTg5OswwAN4ew5CIkW-lVxxeL-sOXehfrTEj7scIz_v9cpZNmo8/s400/DSC01403.jpg" width="266" /></a></div>
+<a href="/images/DSC01403.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1068" height="400" src="/images/DSC01403.jpg" width="266" /></a></div>
 

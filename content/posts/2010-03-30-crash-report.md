@@ -14,7 +14,7 @@ Okay, so I'm on a short visit to Germany and what happens: I get hit by a car. T
 </table><br />
 What's kinda interesting about the accident is the GPS log.<br />
 <br />
-<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/8gmlvnF2MPHSrbRqg0cIPg?authkey=Gv1sRgCI3zxsvhl8nstAE&feat=embedwebsite"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoOJfd7YBb5OAg99FReW90k3FhpaNNBrwxj5q1-bpzaStSDt_9PzdwdTJB6MvneXmNyo2WHb_XvRKtDp4yOtYxG9HzjHrj4_5o5TxIz0ywa9Uf071pp-HgirinL6zQSzoQPD6PDJP9Cow/s400/greenshot_2010-03-30_10-04-56.jpg" /></a></td></tr>
+<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/8gmlvnF2MPHSrbRqg0cIPg?authkey=Gv1sRgCI3zxsvhl8nstAE&feat=embedwebsite"><img src="/images/greenshot_2010-03-30_10-04-56.jpg" /></a></td></tr>
 <tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">GPS-Log and Map</td></tr>
 </table><br />
 You can clearly see how I was approaching the traffic circle, slowed down, and then got hit, leading to a spike in the recorded speed.

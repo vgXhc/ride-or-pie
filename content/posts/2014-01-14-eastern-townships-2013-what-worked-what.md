@@ -12,7 +12,7 @@ It's been four months now since we completed our tour, giving me enough distance
 What worked</h2>
 <div>
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPU_wWb-vYui32BI0k_jDkQUOnLlY1yLG2IGnO-UwFLDgo0x-hV8xP-jRxT-X-t6_3emUK8DDleo3Nb2ALFMHNjwQLTHEdXpXXuBIRYnP_IgEs2YqToWP6IgUbiiSjvDkQIHsswMgbc-c/s1600/IMG_0699.JPG" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPU_wWb-vYui32BI0k_jDkQUOnLlY1yLG2IGnO-UwFLDgo0x-hV8xP-jRxT-X-t6_3emUK8DDleo3Nb2ALFMHNjwQLTHEdXpXXuBIRYnP_IgEs2YqToWP6IgUbiiSjvDkQIHsswMgbc-c/s1600/IMG_0699.JPG" height="240" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/IMG_0699.JPG" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" src="/images/IMG_0699.JPG" height="240" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;"><a href="http://www.rei.com/product/845481/rei-half-dome-2-plus-tent">REI Half Dome Plus</a>, keeping us dry and protected from skunks...</td></tr>
 </tbody></table>
 <ul>
@@ -28,7 +28,7 @@ What mostly worked</h2>
 </div>
 <div>
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKp8qlfRiGUyPEztCWiGsPDHSsJVbalxmRflHc7MNRDYmI8VDxBLYmpozfdVwPU8t3AFbk0zljfChVR8zjkPuJHetQsipbDR8uuhyhruxtZ16Zw333p88AJx06-XrQqZtoTJ3mFSRqYYI/s1600/IMG_0688.JPG" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKp8qlfRiGUyPEztCWiGsPDHSsJVbalxmRflHc7MNRDYmI8VDxBLYmpozfdVwPU8t3AFbk0zljfChVR8zjkPuJHetQsipbDR8uuhyhruxtZ16Zw333p88AJx06-XrQqZtoTJ3mFSRqYYI/s1600/IMG_0688.JPG" height="240" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/IMG_0688.JPG" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" src="/images/IMG_0688.JPG" height="240" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Wolfgang, the Cross-Check, fully loaded</td></tr>
 </tbody></table>
 <ul>

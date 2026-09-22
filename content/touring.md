@@ -7,11 +7,11 @@ slug = "touring"
 type = "page"
 +++
 
-<div>This is an overview page of many of the the multi-day bike tours I've ever done, with links to ride reports (if available).</div><div><h3 style="text-align: left;">2019 To the Alps!</h3><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtY1j4SpXBITjSXTGaNpcVtIsoeSVcDAbiadBPlc2FG1r7PG0NQUW-c_z5xe3KuX5USHeFQeQptAL9_-VEQHottqcT48w4J5-OzuNApR-3jtyvPFzt7whxfcLG2eFxi3JkWslSpY2juTY/s6000/DSC02334.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="4000" data-original-width="6000" height="416" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtY1j4SpXBITjSXTGaNpcVtIsoeSVcDAbiadBPlc2FG1r7PG0NQUW-c_z5xe3KuX5USHeFQeQptAL9_-VEQHottqcT48w4J5-OzuNApR-3jtyvPFzt7whxfcLG2eFxi3JkWslSpY2juTY/w625-h416/DSC02334.jpg" width="625" /></a></div><div><br /></div><div>Biking from my parents' place near Stuttgart to the Kleinwalsertal in the Alps. Two days of credit card touring on an old MTB.<br /></div><div><a href="http://ride-or-pie.blogspot.com/2019/07/to-alps-day-1.html">Day 1: Welzheim to Füramoos</a></div><div><a href="http://ride-or-pie.blogspot.com/2019/09/to-alps-day-2.html">Day 2: Füramoos to Hirschegg</a><br /></div></div>
+<div>This is an overview page of many of the the multi-day bike tours I've ever done, with links to ride reports (if available).</div><div><h3 style="text-align: left;">2019 To the Alps!</h3><div class="separator" style="clear: both; text-align: center;"><a href="/images/DSC02334.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="4000" data-original-width="6000" height="416" src="/images/DSC02334.jpg" width="625" /></a></div><div><br /></div><div>Biking from my parents' place near Stuttgart to the Kleinwalsertal in the Alps. Two days of credit card touring on an old MTB.<br /></div><div><a href="http://ride-or-pie.blogspot.com/2019/07/to-alps-day-1.html">Day 1: Welzheim to Füramoos</a></div><div><a href="http://ride-or-pie.blogspot.com/2019/09/to-alps-day-2.html">Day 2: Füramoos to Hirschegg</a><br /></div></div>
 <h3>
 2017 Bike California</h3>
 <div>
-<img height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizoEtLtoOeq7cDSFBogxJ7c_fIY4lOXjqFL0N-Yyd2w5YCbkMR3nQiFefdHV0tA_8i-2nVbtSKdQvTJAbBGaixLo3C1i5uloKhwxkAY6NZXmV7pFuuc9mL26QM6EVaCnaQlKeyclrpKr4/s640/20170225_110225.jpg" width="640" /></div>
+<img height="360" src="/images/20170225_110225.jpg" width="640" /></div>
 <div>
 A 7-day loop north of San Francisco, roughly following the Orr Springs 600k brevet route through Marin, Sonoma, and Mendocino Counties.</div>
 <div>
@@ -29,7 +29,7 @@ A 7-day loop north of San Francisco, roughly following the Orr Springs 600k brev
 <h3>
 2014 S24O Blue Mound State Park</h3>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1iKra00s_akhHuWW50H06IWR7oJaf33f4wJ3UbjTq5UZAPBK2Xv_2jiM2SNd45jTOPafdfHIV2ou3iu6MAOja_iYKE8mfPsvfe74wqner8orwaxKoUk9r86cF5_ZT30QiCBP2Z5upfyc/s1600/IMG_0607.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1iKra00s_akhHuWW50H06IWR7oJaf33f4wJ3UbjTq5UZAPBK2Xv_2jiM2SNd45jTOPafdfHIV2ou3iu6MAOja_iYKE8mfPsvfe74wqner8orwaxKoUk9r86cF5_ZT30QiCBP2Z5upfyc/s640/IMG_0607.jpg" width="640" /></a></div>
+<a href="/images/IMG_0607.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="/images/IMG_0607.jpg" width="640" /></a></div>
 <div>
 <br /></div>
 <div>
@@ -44,7 +44,7 @@ Sadly the only overnight bike touring we did in 2014. But it was great!</div>
 <h3>
 2013 Eastern Townships</h3>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjylnKBqff1Xp5-p_b_iYg4lbQN6TW726p1qKu3r0FOM3NGcXUtt7Gw6_N6ACUDE7G-IrXaFFGQZlBNAqxgiIco7Pc-8YUbc4Z-4rm-2lR-CnGTnEpHBq5pNf8wcIDUpKjVV6c-a_L1iJU/s1600/IMG_0759.JPG" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjylnKBqff1Xp5-p_b_iYg4lbQN6TW726p1qKu3r0FOM3NGcXUtt7Gw6_N6ACUDE7G-IrXaFFGQZlBNAqxgiIco7Pc-8YUbc4Z-4rm-2lR-CnGTnEpHBq5pNf8wcIDUpKjVV6c-a_L1iJU/s640/IMG_0759.JPG" width="640" /></a></div>
+<a href="/images/IMG_0759.JPG" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="/images/IMG_0759.JPG" width="640" /></a></div>
 Longest tour so far, together with the Biketopus
 <br />
 <div>
@@ -65,7 +65,7 @@ Longest tour so far, together with the Biketopus
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsiITRyhTzOAwOATrLFs9WfcJY1JM6bwjZJlCZp-e6PlXd5n_en2DRl5Gj8cfoNLZ5htYDmxa8uC0oSiEjPa3BFK2f2_O76rzgAuDqO-5-9cIT9dVxJtz5YFkcWBR0sObb9x6L13WkRD8/s1600/IMG_0448.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsiITRyhTzOAwOATrLFs9WfcJY1JM6bwjZJlCZp-e6PlXd5n_en2DRl5Gj8cfoNLZ5htYDmxa8uC0oSiEjPa3BFK2f2_O76rzgAuDqO-5-9cIT9dVxJtz5YFkcWBR0sObb9x6L13WkRD8/s640/IMG_0448.jpg" width="640" /></a></div>
+<a href="/images/IMG_0448.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="/images/IMG_0448.jpg" width="640" /></a></div>
 <br />
 Another tour together with the Biketopus: Following the St. Lawrence from Quebec City to Montreal</div>
 <div>
@@ -95,7 +95,7 @@ Credit card touring in early spring.</div>
 <div>
 <ul>
 <li><a href="http://ride-or-pie.blogspot.ca/2014/01/2012-montreal-express.html">2012 Montreal–Toronto Express</a><div class="separator" style="clear: both; text-align: center;">
-<a href="http://ride-or-pie.blogspot.ca/2014/01/2012-montreal-express.html"></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNKZYkgw-nZxpEkWvbH_nX9HRvQXCg7Pc0yP_BJrNRELvcK65dq-jQ4gZiT7nJh-4_5jSGe1pIjjs2Bsp04b8RvJAoz0zVc_QCK0gXBrowuCsXClPNoyodbVnfenzR1H_FV4-DTGvCpy0/s1600/IMG_0214.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="347" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNKZYkgw-nZxpEkWvbH_nX9HRvQXCg7Pc0yP_BJrNRELvcK65dq-jQ4gZiT7nJh-4_5jSGe1pIjjs2Bsp04b8RvJAoz0zVc_QCK0gXBrowuCsXClPNoyodbVnfenzR1H_FV4-DTGvCpy0/s640/IMG_0214.jpg" width="640" /></a></div>
+<a href="http://ride-or-pie.blogspot.ca/2014/01/2012-montreal-express.html"></a><a href="/images/IMG_0214.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="347" src="/images/IMG_0214.jpg" width="640" /></a></div>
 </li>
 </ul>
 <h3>
@@ -103,7 +103,7 @@ Credit card touring in early spring.</div>
 <div>
 A two day, self-supported ride with the Biketopus. Pictures/blog post to follow</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzYoSjT0DSdoLZG23k9Q5xWmsfU0Yj8mFNQzHcNtVxGW_CK_tZpxVeWg0zE5mbg7dZnVp4zIUkmv0fZJV-LvIzw44f0ZCSpny889_ewBt1DHgOB7Q75zWvfQaGmxYG-lrzdzXhX0GbP-s/s1600/IMG_2525.JPG" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzYoSjT0DSdoLZG23k9Q5xWmsfU0Yj8mFNQzHcNtVxGW_CK_tZpxVeWg0zE5mbg7dZnVp4zIUkmv0fZJV-LvIzw44f0ZCSpny889_ewBt1DHgOB7Q75zWvfQaGmxYG-lrzdzXhX0GbP-s/s640/IMG_2525.JPG" width="640" /></a></div>
+<a href="/images/IMG_2525.JPG" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="/images/IMG_2525.JPG" width="640" /></a></div>
 <div>
 <br /></div>
 <h3>

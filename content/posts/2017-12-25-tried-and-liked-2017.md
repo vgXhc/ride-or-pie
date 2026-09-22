@@ -67,7 +67,7 @@ Powdercoating</h3>
 The cold season was the perfect time to give my Gunnar Roadie a facelift. The notorious quality of Waterford paint jobs of yesteryear had left me with a frame with a lot of spots where the paint had chipped or scratched. Waterford will repaint your bike (and from what I know, their paint quality is much better nowadays), but the price is steep. Based on multiple recommendations from the iBOB list, I decided to have the frame powdercoated by <a href="https://groodybros.com/">Groody Bros.</a> in Kansas City. I can highly recommend them: Communication was great (all via email), you can choose from any powder color imaginable (you order the powder from any supplier you like and have it shipped to Groody), the price was right, and the quality was excellent. I also used the opportunity to get the chainstays dimpled to improve tire clearance. And having a matching frame, fork, and steam is great. Because I rode the bike so much, including a lot of gravel, I never had the opportunity for a glamour photo shoot. Hopefully next year.<br />
 <br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRM7WZEXXPRoNH6KpxaSQWqbmmFE4qowC__fkOtzKUKYtz1PeTi4x0nbS_GVPJqZUKh0pjW0n0wCWd6q694LOQpW4vCXAlCfXDbYXX1P18aATgJTlCEVG6XVQG8AHXbXQWB1h0bO8wo_0/s1600/20170611_105426.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1200" data-original-width="1600" height="478" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRM7WZEXXPRoNH6KpxaSQWqbmmFE4qowC__fkOtzKUKYtz1PeTi4x0nbS_GVPJqZUKh0pjW0n0wCWd6q694LOQpW4vCXAlCfXDbYXX1P18aATgJTlCEVG6XVQG8AHXbXQWB1h0bO8wo_0/s640/20170611_105426.jpg" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/20170611_105426.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1200" data-original-width="1600" height="478" src="/images/20170611_105426.jpg" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Have I mentioned that I like pink?</td></tr>
 </tbody></table>
 <br />
@@ -79,10 +79,10 @@ My Gunnar wasn't the only bike that got a new color. In fall I used the Spray.Bi
 <div>
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2cYDa5FvhRLyFxXc0rzRBqZjGybnqMPse4PQ653FDdeiOBN3umJ1wHifE2kzFw3TI4YbAm3b46BBkRl05y5wB3FmthIQC-rCvMirXgskKZDR9UDsFFcgWVuP7dgzBeMVPiBlC_1kDRQE/s1600/IMG_20170917_172437558_HDR.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2cYDa5FvhRLyFxXc0rzRBqZjGybnqMPse4PQ653FDdeiOBN3umJ1wHifE2kzFw3TI4YbAm3b46BBkRl05y5wB3FmthIQC-rCvMirXgskKZDR9UDsFFcgWVuP7dgzBeMVPiBlC_1kDRQE/s640/IMG_20170917_172437558_HDR.jpg" width="640" /></a></div>
+<a href="/images/IMG_20170917_172437558_HDR.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="/images/IMG_20170917_172437558_HDR.jpg" width="640" /></a></div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOUdcZCgPtHjar_s0pKT0j-IYU9QAqapGLwWBcACJnGnCKSnaPKGOTd09e9vtbJ9LrvFGMtxmKUL5Ohg858UHuXIxXtLByW7lVHtN4yt_Ep6JuMfPAhEWzLnh47i6Z292icNykLgLEQLw/s1600/IMG_20170917_172423455.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="1600" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOUdcZCgPtHjar_s0pKT0j-IYU9QAqapGLwWBcACJnGnCKSnaPKGOTd09e9vtbJ9LrvFGMtxmKUL5Ohg858UHuXIxXtLByW7lVHtN4yt_Ep6JuMfPAhEWzLnh47i6Z292icNykLgLEQLw/s640/IMG_20170917_172423455.jpg" width="640" /></a></div>
+<a href="/images/IMG_20170917_172423455.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="1600" height="480" src="/images/IMG_20170917_172423455.jpg" width="640" /></a></div>
 <div>
 <br /></div>
 <h4>
@@ -112,7 +112,7 @@ Disliked</h2>
 Velo Orange cranks</h3>
 One of the lessons from my California tour was that I needed lower gearing for my SOMA Grand Randonneur. In my search for a cheap sub-compact crank, I was offered an early-generation Velo Orange set. Sadly, I have not been able to make that crank work: After several attempts of buying ever wider bottom brackets, I ended up with a set-up that works, kind of. With a 122mm bottom bracket, the cranks clear the chain stays, but with so little room to spare that they do rub on hard efforts. Filing the ends of the crank made it slightly better, but I can still make them rub. And with a 122mm bottom bracket, the chainline is less than ideal. I'm not sure if the design of my cranks is different from the current generation VO cranks or if it's a quirk of the Grand Randonneur, but I definitely need to come up with a different solution.<br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijHguCm6utfaCO6zLj0dBgotDn4rxJw9jWHvhC35_twzqsG5gyMBI3Bf5ja-nYkgXnRCsLtceaU7BMA5KVpXiDwpEBC_MUy7WYXRK9ogSlIa7WQVCVMrXfO2pkJB-mDViK13oUhVMjwNQ/s1600/IMG_20170822_185507_428.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1600" data-original-width="1600" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijHguCm6utfaCO6zLj0dBgotDn4rxJw9jWHvhC35_twzqsG5gyMBI3Bf5ja-nYkgXnRCsLtceaU7BMA5KVpXiDwpEBC_MUy7WYXRK9ogSlIa7WQVCVMrXfO2pkJB-mDViK13oUhVMjwNQ/s640/IMG_20170822_185507_428.jpg" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/IMG_20170822_185507_428.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1600" data-original-width="1600" height="640" src="/images/IMG_20170822_185507_428.jpg" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Not enough clearance</td></tr>
 </tbody></table>
 <br />
@@ -122,7 +122,7 @@ Brooks Cambium</h3>
 Many people love their <a href="http://amzn.to/2DcBzHH">Cambium saddles</a>; I do not. The saddle is okay-but-not-great in terms of comfort for a bike that rarely sees rides longer than 3 hours. But the saddle doesn't age well. In its current state, the top looks ratty. For a saddle with an MSRP of $160, that is not for me.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxjaKH4XZiPO2w2ABYygE2gL-PC45fluuuobUDLG760rnDgxNsZdoM7avklIn_exzqQQkOqGYy_2zellRYfxc2fPhzTHjA86i7k3GVFx9LTL6Ia_PcxRo0dOtVz39mqSeDzE1BiByglAE/s1600/IMG_20170827_133152342_HDR.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxjaKH4XZiPO2w2ABYygE2gL-PC45fluuuobUDLG760rnDgxNsZdoM7avklIn_exzqQQkOqGYy_2zellRYfxc2fPhzTHjA86i7k3GVFx9LTL6Ia_PcxRo0dOtVz39mqSeDzE1BiByglAE/s640/IMG_20170827_133152342_HDR.jpg" width="640" /></a></div>
+<a href="/images/IMG_20170827_133152342_HDR.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="/images/IMG_20170827_133152342_HDR.jpg" width="640" /></a></div>
 <br />
 <br />
 <h3>
@@ -130,7 +130,7 @@ Panaracer Pasela</h3>
 The <a href="http://amzn.to/2Dc4hII">unbelted version of the Pasela</a> is generally well liked as an affordable tire with decent rolling resistance and comfort. A while back I had picked up a pair of NOS Paselas in 32mm width at a garage sale. After my <a href="http://amzn.to/2BLIawm">Vittoria Randonneur Hyper</a> had worn through, I finally put the Paselas on—and didn't like them. They felt stiffer than the Vittorias, and the sidewalls showed signs of disintegration quickly. After less than a year on the bike, one of the sidewalls failed. I'm done with Paselas.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRBHpDtwG_-Ag7KOA9dalb7GYF-_0VXIZ0dTekQ3nPvNDd8BIsyHidKoIY7M5BE_uXlyOWaX_e5IVj-Ikg4Y2VlgtOXLgjGw2nSeM6ELxGTZL8_c6Hf2Lz8QxOU56sXaZHCFVBvAXCRlg/s1600/IMG_20171118_125713970.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="1600" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRBHpDtwG_-Ag7KOA9dalb7GYF-_0VXIZ0dTekQ3nPvNDd8BIsyHidKoIY7M5BE_uXlyOWaX_e5IVj-Ikg4Y2VlgtOXLgjGw2nSeM6ELxGTZL8_c6Hf2Lz8QxOU56sXaZHCFVBvAXCRlg/s640/IMG_20171118_125713970.jpg" width="640" /></a></div>
+<a href="/images/IMG_20171118_125713970.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="1600" height="480" src="/images/IMG_20171118_125713970.jpg" width="640" /></a></div>
 <br />
 <h2>
 Mixed/undediced</h2>
@@ -143,7 +143,7 @@ Philips Saferide condensation issues</h3>
 After singing the praises of the generator-hub-powered Philips Saferide front light last year, I have sad news to report: A few weeks ago I noticed that the light beam looked different. And then the standlight failed as well, with the light turning itself off whenever I stopped. On closer inspection I noticed that moisture has gotten into the light. For now I've replaced the Philips with a BUMM light from one of my other bikes. I'll see if maybe I can get the moisture out of the light, but I'm not very hopeful.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPNaTWkPQqSjTrK-EVaFfgjPh5iwCYLxn978ZUDn2CoogS1AmlPxyr6m21KTFYzZvVfvAkbVmPofLrNOV6D7ug5donkVZuDgx9IA72FTn33RwIyHxpgNdfH684iJA8rljfA51GVlU1pmI/s1600/IMG_20171223_110453939.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1600" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPNaTWkPQqSjTrK-EVaFfgjPh5iwCYLxn978ZUDn2CoogS1AmlPxyr6m21KTFYzZvVfvAkbVmPofLrNOV6D7ug5donkVZuDgx9IA72FTn33RwIyHxpgNdfH684iJA8rljfA51GVlU1pmI/s640/IMG_20171223_110453939.jpg" width="640" /></a></div>
+<a href="/images/IMG_20171223_110453939.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1600" height="640" src="/images/IMG_20171223_110453939.jpg" width="640" /></a></div>
 <br />
 <br />
 <br />

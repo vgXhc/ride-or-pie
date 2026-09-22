@@ -29,7 +29,7 @@ S24Os</h3>
 <div>
 Not exactly new, but I still love going for S24O camping trips. This year I was able to squeeze in more of them, and all of them were awesome. Some ride reports <a href="http://ride-or-pie.blogspot.com/search/label/S24O">here</a>.<br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkOCnq7Qyhb6CbzBVmhJAoZyDq5jl6065HitKaGMke54MWFGtUAoFqC4Czg1Hh1inx2um4rhscGh70EUsXohU6KuumyDZEGvfQ7pX4izX21WjWVWVB3UiNXPDukjmrkJlSrUOCRCCWH0A/s1600/20161009_110151.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkOCnq7Qyhb6CbzBVmhJAoZyDq5jl6065HitKaGMke54MWFGtUAoFqC4Czg1Hh1inx2um4rhscGh70EUsXohU6KuumyDZEGvfQ7pX4izX21WjWVWVB3UiNXPDukjmrkJlSrUOCRCCWH0A/s640/20161009_110151.jpg" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/20161009_110151.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="360" src="/images/20161009_110151.jpg" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">S24O to New Glarus</td></tr>
 </tbody></table>
 <h3>
@@ -42,7 +42,7 @@ For several winters I've considered buying a fat bike. In the end I always talke
 </div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitiwD0lvFr7qwDxjz3Kf0adIQoM5TgUEcxqTuwcDfbfxiki0S6SIcP5Olq6cHb9w8Y7lvR2XrEm53iktYOGWZSJ8NQnurN_TxsatD3kGGwTqgQ3cSAIlnUUj5Mmtrrg1scKlPw-0aG4uM/s1600/20161204_111453.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitiwD0lvFr7qwDxjz3Kf0adIQoM5TgUEcxqTuwcDfbfxiki0S6SIcP5Olq6cHb9w8Y7lvR2XrEm53iktYOGWZSJ8NQnurN_TxsatD3kGGwTqgQ3cSAIlnUUj5Mmtrrg1scKlPw-0aG4uM/s640/20161204_111453.jpg" width="640" /></a></div>
+<a href="/images/20161204_111453.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="/images/20161204_111453.jpg" width="640" /></a></div>
 <br />
 <h3>
 Coffeeneuring Challenge</h3>
@@ -56,7 +56,7 @@ Fox River Mittens</h3>
 <div style="text-align: left;">
 The <a href="https://www.amazon.com/Fox-River-Double-Brown-Tweed/dp/B000J00WYU/ref=as_li_ss_tl?ie=UTF8&amp;qid=1482506777&amp;sr=8-1&amp;keywords=fox+river+mittens&amp;linkCode=ll1&amp;tag=riorpi-20&amp;linkId=0b5cac645adb83ba3bdbee088725e39c">Fox River Extra Heavy Double Ragg mittens</a> have turned out to be great. They're thick, warm, and not scratchy. In combination with pogies, they have kept my fingers fairly warm even on days when the temperatures dipped below -20C/0F. As they don't have palm reinforcements, I'm a little concerned about durability. To be revisited next year.<br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://www.amazon.com/Fox-River-Double-Brown-Tweed/dp/B000J00WYU/ref=as_li_ss_tl?ie=UTF8&amp;qid=1482506777&amp;sr=8-1&amp;keywords=fox+river+mittens&amp;linkCode=ll1&amp;tag=riorpi-20&amp;linkId=c62f6bf581225832fef2e340f2d6c17d"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0rLzCeepq3JQE7MPFblwXZ9EvG25DHSdSQugD2xUP86g61wzbuCE_tdnRY1mxH9m2Kugh9u8R6X4rUhFc8srVwwEcW0K-YlrcR19tbnvSIX-3q-S0FcMM_oAQPZby1HwqM2Y-BwlfNrI/s320/81GyabgA1TL._SL1500_.jpg" width="231" /></a></div>
+<a href="https://www.amazon.com/Fox-River-Double-Brown-Tweed/dp/B000J00WYU/ref=as_li_ss_tl?ie=UTF8&amp;qid=1482506777&amp;sr=8-1&amp;keywords=fox+river+mittens&amp;linkCode=ll1&amp;tag=riorpi-20&amp;linkId=c62f6bf581225832fef2e340f2d6c17d"><img border="0" height="320" src="/images/81GyabgA1TL._SL1500_.jpg" width="231" /></a></div>
 <br /></div>
 </div>
 <h3>
@@ -94,7 +94,7 @@ Hammock camping</h3>
 <div>
 I never slept very well in tents. My pointy bones are a challenge for any sleeping pad, and so a hammock for bike camping trips seemed like a good solution. I first tried a cheap hammock on an early S24O this year. The night was cold and windy, and my sleeping pad kept sliding around. If you're not familiar with hammock camping: You really need a sleeping pad under your back for insulation; otherwise you'll get real cold real quick. Cold aside, the comfort of the hammock was good, and so I decided to give it another try. The ever-talented SO offered to sew me a custom hammock, long enough for my 198cm (6'5") and with a pocket for the sleeping pad. For various reasons I only got to test it for camping once, under less than ideal circumstances. Note to self: Don't try a new camping set-up when it's completely dark and your headlamp is out of power.</div>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPnS5pNYYGNKEYssC0N4p_nDuIcDUDFyQi8hQ69KUcCLR9o7IcKNnJy9FL1-85FBaXAMXQ0fyIujn0xFWPKxxm0vytwRN0_NT-skdbKeNZJu1T60GEhHdC9YRqWPX3-wkS4R2uUly2uH0/s1600/20160717_174542.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPnS5pNYYGNKEYssC0N4p_nDuIcDUDFyQi8hQ69KUcCLR9o7IcKNnJy9FL1-85FBaXAMXQ0fyIujn0xFWPKxxm0vytwRN0_NT-skdbKeNZJu1T60GEhHdC9YRqWPX3-wkS4R2uUly2uH0/s640/20160717_174542.jpg" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/20160717_174542.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="360" src="/images/20160717_174542.jpg" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Test hang in the park</td></tr>
 </tbody></table>
 <div>

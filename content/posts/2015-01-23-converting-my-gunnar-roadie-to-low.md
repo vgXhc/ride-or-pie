@@ -9,7 +9,7 @@ tags = ["650B", "Gunnar Roadie", "Gunnar", "conversion"]
 
 My 2002 Gunnar Roadie is the best bike I've ever ridden. It's fast (it's painted orange; so what did you expect...), looks good, is reliable. Since I first built it up in 2010, I've made some changes, but they were mostly minor -- Grand Bois handlebars replaced the modern bars, as did a 1" steel stem the 1 1/8" aluminum stem, and I upgraded to a generator hub. But now it's time for something more drastic: Converting to 584mm/650B wheels and a fork that will make the bike low trail.<br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_il2HnzQ0oTQ0UniNYL9fg0KLf9G2kzgGaXUjFPLWhWUtUGISLWcOzzwbEME0YBjc4Gc0L-UsW4DkZnryQouUHZArN2NAecDpLEu-H7FCAylacSjUqqCMENM1hmE5kyXkONH7WjNOw0U/s1600/IMG_0630.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_il2HnzQ0oTQ0UniNYL9fg0KLf9G2kzgGaXUjFPLWhWUtUGISLWcOzzwbEME0YBjc4Gc0L-UsW4DkZnryQouUHZArN2NAecDpLEu-H7FCAylacSjUqqCMENM1hmE5kyXkONH7WjNOw0U/s1600/IMG_0630.jpg" height="480" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/IMG_0630.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="/images/IMG_0630.jpg" height="480" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Gunnar with 25-622 wheels/tires</td></tr>
 </tbody></table>
 <br />

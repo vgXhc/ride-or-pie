@@ -14,13 +14,13 @@ When, after many years of heavy use, I lost one of the nubs, I remembered that I
 Here's the before:<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEI0NEOu8BK5fjCQOavUH-kThERyLppY7S0nCgfBMDSmc1t4Yt0qrE-HHaV4kGEVdSxDcnmiNE7m2LTeMb9nvHNCRu_FDzHx5y4X7sVxdcfb29saJYn91N64gLY2kpzBmFLPcTWY8mLRo/s1600/DSC_6678.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEI0NEOu8BK5fjCQOavUH-kThERyLppY7S0nCgfBMDSmc1t4Yt0qrE-HHaV4kGEVdSxDcnmiNE7m2LTeMb9nvHNCRu_FDzHx5y4X7sVxdcfb29saJYn91N64gLY2kpzBmFLPcTWY8mLRo/s1600/DSC_6678.jpg" height="424" width="640" /></a></div>
+<a href="/images/DSC_6678.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/DSC_6678.jpg" height="424" width="640" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
 And the after:</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmr__CcQFDPgd0_rFHgrifJ6rBUJW3f2-li54Vo6pC1KTwfh0WBxGY78-l6x2Sqp-qXYDn3hq1P6xNsY6luOtWF8kvvhsOz-FKcqDhR_4Ui1q-UPFKv_Bb74wTsR1ARXesb_UK3x_y7f0/s1600/DSC_6672.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmr__CcQFDPgd0_rFHgrifJ6rBUJW3f2-li54Vo6pC1KTwfh0WBxGY78-l6x2Sqp-qXYDn3hq1P6xNsY6luOtWF8kvvhsOz-FKcqDhR_4Ui1q-UPFKv_Bb74wTsR1ARXesb_UK3x_y7f0/s1600/DSC_6672.jpg" height="640" width="424" /></a></div>
+<a href="/images/DSC_6672.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/DSC_6672.jpg" height="640" width="424" /></a></div>
 <br />
 Much nicer, isn't it?<br />
 <br />
@@ -34,7 +34,7 @@ These are the required parts, from left to right: <br />
 </ul>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicTVKaTyVH1w6c5YPbD8hVOc6AHZcqH6SLyU4WxT7bwecRTSLwz-Q4maBpwAhbOJOgOeOhyu9E_1Q89QcQAD-wubn2Hx2MdH2fHK5rZml_Yx6-sxFBERaURl-P_-jUHt_3JxB6UCbVJ0g/s1600/DSC_6680.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicTVKaTyVH1w6c5YPbD8hVOc6AHZcqH6SLyU4WxT7bwecRTSLwz-Q4maBpwAhbOJOgOeOhyu9E_1Q89QcQAD-wubn2Hx2MdH2fHK5rZml_Yx6-sxFBERaURl-P_-jUHt_3JxB6UCbVJ0g/s1600/DSC_6680.jpg" height="424" width="640" /></a></div>
+<a href="/images/DSC_6680.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/DSC_6680.jpg" height="424" width="640" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">

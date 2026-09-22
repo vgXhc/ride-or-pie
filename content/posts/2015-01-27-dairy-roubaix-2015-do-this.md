@@ -8,7 +8,7 @@ tags = ["gravel", "Wyalusing State Park", "Dairy Roubaix"]
 +++
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWRjzWHKTq4zrHxluKCVKkWuVa8kh2t7sOIIyJehjMENI3ogGvXnOxfcPEwscSK_lj06uLXxgvM6E4Viyf_USVFV6FUFAE-KmoAVfXFti1LVPUwF_IlBuCld8mZPKuK6KdCAQBGN-n16g/s1600/ele_profile.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWRjzWHKTq4zrHxluKCVKkWuVa8kh2t7sOIIyJehjMENI3ogGvXnOxfcPEwscSK_lj06uLXxgvM6E4Viyf_USVFV6FUFAE-KmoAVfXFti1LVPUwF_IlBuCld8mZPKuK6KdCAQBGN-n16g/s1600/ele_profile.jpg" height="128" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/ele_profile.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="/images/ele_profile.jpg" height="128" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Woo, this looks like fun! (Image source: Ride With GPS)</td></tr>
 </tbody></table>
 <br />

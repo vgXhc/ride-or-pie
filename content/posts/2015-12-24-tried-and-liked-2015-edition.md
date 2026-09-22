@@ -14,7 +14,7 @@ So what was&nbsp;<i>liked</i>&nbsp;in 2015?<br />
 650B low trail fat tire bikes</h3>
 Again, I'm late to the game, but I'm loving it. First I&nbsp;<a href="http://ride-or-pie.blogspot.com/2015/03/converting-my-gunnar-roadie-to-low.html">converted my beloved Gunnar Roadie</a>, liked it a lot, and then I bought a&nbsp;<a href="http://www.somafab.com/archives/product/grand-randonneur-frame-set">SOMA Grand Randonneur</a>&nbsp;to go all the way: 42mm&nbsp;<a href="http://www.compasscycle.com/">Compass</a>&nbsp;tires, full fenders, front rack, low trail, handlebar bag (post about the SOMA is coming soon). It's awesome.<br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6LvNd-P-mB_7XQGQCpciuNEXkvsb6jMlJMsqCdbdolP3Spo8WbpreiFNNQSKI2bSqMStOz7hRdQ2HbRE1yt7GL6YT7LOww6LdMfkHJUDnnpU1B5cztOd1nsh0CMHeEwQe08yORDGn29g/s1600/DSC_6738.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="424" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6LvNd-P-mB_7XQGQCpciuNEXkvsb6jMlJMsqCdbdolP3Spo8WbpreiFNNQSKI2bSqMStOz7hRdQ2HbRE1yt7GL6YT7LOww6LdMfkHJUDnnpU1B5cztOd1nsh0CMHeEwQe08yORDGn29g/s640/DSC_6738.jpg" width="640" /></a></div>
+<a href="/images/DSC_6738.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="424" src="/images/DSC_6738.jpg" width="640" /></a></div>
 <br />
 <h3>
 Group riding</h3>
@@ -40,7 +40,7 @@ Let's get to the&nbsp;<i>disliked</i>&nbsp;category. It only contains one item, 
 Crashing</h3>
 I've been biking for almost 30 years and never had any serious crash. Until this August. Short summary: Cat runs out of a field while I'm going 50 km/h (30 mph). I go down, dislocating my shoulder and badly fracturing the head of my humerus. And lots of road rash. I'm in good shape again, but I cannot recommend the experience to anyone.<br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzRsj68ep4T44NOteczH9HWwg_03GpOhNFHm4HrEq7AGcHfT_BG-DNvrwQ730ERYxX8Z-K5fs-8asPKzjTSPaqe2BmNryf1Iu1YhGrdd0onjTMAXuVjn9wo9SfpMtqZx-660KpLthlhtg/s1600/8542501989_b364bde74f_o.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzRsj68ep4T44NOteczH9HWwg_03GpOhNFHm4HrEq7AGcHfT_BG-DNvrwQ730ERYxX8Z-K5fs-8asPKzjTSPaqe2BmNryf1Iu1YhGrdd0onjTMAXuVjn9wo9SfpMtqZx-660KpLthlhtg/s320/8542501989_b364bde74f_o.jpg" width="307" /></a></td></tr>
+<tr><td><a href="/images/8542501989_b364bde74f_o.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="/images/8542501989_b364bde74f_o.jpg" width="307" /></a></td></tr>
 <tr><td class="tr-caption" style="font-size: 12.8px;">I didn't find this humerus. (Photo:&nbsp;<a href="https://www.flickr.com/photos/93924379@N04/8542501989">Jenna Nevins</a>,&nbsp;<a href="https://creativecommons.org/licenses/by/2.0/">CC-BY</a>&nbsp;2.0)</td></tr>
 </tbody></table>
 <br />

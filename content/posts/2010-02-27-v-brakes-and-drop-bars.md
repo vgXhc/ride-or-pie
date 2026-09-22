@@ -10,17 +10,17 @@ tags = ["maintenance", "adjuster barrel", "brakes"]
 For the record: I exchanged brake pad inserts on Wolfgang, switching from the Tektro stock pads to Koolstop Dual Compound. So the original pads lasted about 4 months and maybe 1500 km (no record keeping yet back then, unfortunately). Given the adverse conditions of winter I guess that's a reasonable value. <br />
 <br />
 <table style="width: auto;"><tbody>
-<tr><td><a href="http://picasaweb.google.com/lh/photo/52nMXISLHDcfgGCuDEBNOA?feat=embedwebsite"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidyrvtqDW8Nw8gZBo7SNSn3Cy_m-C56DDjEvn9vZzWd-zYItwgmHByQhSNQtZXIM6rIeKEBTuoT6igC1ZMjw4-ELXUHQId3PvALuA2FDqb_ddvDACqKZGzH1SaeztzlaEEx1YQLig3Dg4/s400/IMG_1817.JPG" /></a></td></tr>
+<tr><td><a href="http://picasaweb.google.com/lh/photo/52nMXISLHDcfgGCuDEBNOA?feat=embedwebsite"><img src="/images/IMG_1817.JPG" /></a></td></tr>
 <tr><td style="font-family: arial,sans-serif; font-size: 11px; text-align: right;">The old pads on dirty, dirty Wolfgang</td></tr>
 </tbody></table>
 <br />
 <table style="width: auto;"><tbody>
-<tr><td><a href="http://picasaweb.google.com/lh/photo/EMaO93XQOtBYGRu0YbysSw?feat=embedwebsite"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4j4OWaJ251jymbVBGJxjTxegnuTFoEGoXnH0zcFVeN07WWCD8RP5aCTh933Afndg6MWfXnbBNO_MkQNt4tDuSkhUJYPRcF-H7RErw4rGNYbhyerE3DSwtdC8GilZriTgHGLRiLWaxCu8/s400/IMG_1818.JPG" /></a></td></tr>
+<tr><td><a href="http://picasaweb.google.com/lh/photo/EMaO93XQOtBYGRu0YbysSw?feat=embedwebsite"><img src="/images/IMG_1818.JPG" /></a></td></tr>
 <tr><td style="font-family: arial,sans-serif; font-size: 11px; text-align: right;">What remains of the pad...</td></tr>
 </tbody></table>
 <br />
 <table style="width: auto;"><tbody>
-<tr><td><a href="http://picasaweb.google.com/lh/photo/0FLWYEL2KjcaGhgbb1sEVQ?feat=embedwebsite"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNZnKzUz5yZlacF_DwFJk6aOB7dsNZFxR6ZQiM9UjqUByXjGDe4od-5RYOIADKZVkId96ZnCY3x6LXrtPsHdIwh-S-ipEG1ogRt7gKM7LaXx51ydAFoGWe1Dg2tiFJVgDjeZhGKlRXBfs/s400/IMG_1819.JPG" /></a></td></tr>
+<tr><td><a href="http://picasaweb.google.com/lh/photo/0FLWYEL2KjcaGhgbb1sEVQ?feat=embedwebsite"><img src="/images/IMG_1819.JPG" /></a></td></tr>
 <tr><td style="font-family: arial,sans-serif; font-size: 11px; text-align: right;">New pads installed</td></tr>
 </tbody></table>
 <br />

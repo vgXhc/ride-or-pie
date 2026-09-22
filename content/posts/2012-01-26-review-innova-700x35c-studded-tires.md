@@ -14,11 +14,11 @@ not too much rolling resistance. Since then I have
 ridden the tires for approximately 1500 km and my verdict is very 
 different now. The Innovas turned out to be a bad investment for me.<br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5uUm7zpwHQ3qfwVNOMmaQSyy7bLai8sWcYxaQgKJHZlatlNS6zA9CswnYQE9E14gv-SScIZvTqCC7PEQKJxRcCAyzEYPitZHz7ld_EVVoARU1cw9MLu7CqfzhZikS2k7_mCJZtumwxt0/s1600/DSC_5741.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="232" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5uUm7zpwHQ3qfwVNOMmaQSyy7bLai8sWcYxaQgKJHZlatlNS6zA9CswnYQE9E14gv-SScIZvTqCC7PEQKJxRcCAyzEYPitZHz7ld_EVVoARU1cw9MLu7CqfzhZikS2k7_mCJZtumwxt0/s400/DSC_5741.jpg" width="400" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/DSC_5741.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="232" src="/images/DSC_5741.jpg" width="400" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Before...</td></tr>
 </tbody></table>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz8UzW1faOGAYh9HzPPiCogeF0HV3cwE2CI6em-krDkIfOvIw2GWd6EINOe9JY2oFVd2DPxqihqqQbhhCOirc6CTRqNy_wsTS-B7qnRIhSrn5puW75K3YvRU2K81-GIvG4O_0E55ajvZ4/s1600/IMG_3425.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz8UzW1faOGAYh9HzPPiCogeF0HV3cwE2CI6em-krDkIfOvIw2GWd6EINOe9JY2oFVd2DPxqihqqQbhhCOirc6CTRqNy_wsTS-B7qnRIhSrn5puW75K3YvRU2K81-GIvG4O_0E55ajvZ4/s400/IMG_3425.jpg" width="400" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/IMG_3425.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="300" src="/images/IMG_3425.jpg" width="400" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">...and after</td></tr>
 </tbody></table>
 <br />

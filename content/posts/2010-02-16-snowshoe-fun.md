@@ -8,7 +8,7 @@ tags = ["winter", "snowshoeing"]
 +++
 
 <table style="width: auto;"><tbody>
-<tr><td><a href="http://picasaweb.google.com/lh/photo/IikX_nEvpuhhemJEWj9AwQ?feat=embedwebsite"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp-OahuSZoKA62N2TtrAUPv9h0seAisl2kWkukFAmvcF6FYeqVk1h-5uuMnpsVKej0iOwOXQ6aYCiyWNy0vIP1-3Fa3suN838wNTvBhZlv_qRyJdrWXrIV_Ee2-YZZhCGP12gv4fgyFCE/s400/IMG_1785.jpg" /></a></td></tr>
+<tr><td><a href="http://picasaweb.google.com/lh/photo/IikX_nEvpuhhemJEWj9AwQ?feat=embedwebsite"><img src="/images/IMG_1785.jpg" /></a></td></tr>
 <tr><td style="font-family: arial,sans-serif; font-size: 11px; text-align: right;">From <a href="http://picasaweb.google.com/kliems/SnowshoeHike?authkey=Gv1sRgCK-P25Puxa6-rwE&amp;feat=embedwebsite">Snowshoe Hike</a></td></tr>
 </tbody></table><br />
 Surprise, surprise: winter is still not over and another weekend without significant riding went by. So as an alternative, <a href="http://biketopus.blogspot.com/">the accomplice</a> and I went to Glenn Swan's Monday night showshoe outing. As always, it was lots of fun and the weather was exceptionally good, too. Around 0° C and clear skies made for a nice sunset and a great 4.5 km walk. <br />

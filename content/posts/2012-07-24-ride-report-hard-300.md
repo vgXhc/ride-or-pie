@@ -8,7 +8,7 @@ tags = ["ride report", "brevet", "CVRM", "randonneuring", "300k"]
 +++
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2j8CM4UoEgw6zsYhcicFeVNYmxqMAV7zkWEvKLFT2ERVbAJ6o8IciQw1G3Inc7eDHtjyWo5aIS7KpK381tM0cAq3a1dL72etx9oZLhWM21qepfSivfRKe49YFahU845hZQSjF7a4OchQ/s1600/20120721_300KmDepart.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2j8CM4UoEgw6zsYhcicFeVNYmxqMAV7zkWEvKLFT2ERVbAJ6o8IciQw1G3Inc7eDHtjyWo5aIS7KpK381tM0cAq3a1dL72etx9oZLhWM21qepfSivfRKe49YFahU845hZQSjF7a4OchQ/s400/20120721_300KmDepart.jpg" width="400" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/20120721_300KmDepart.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" height="300" src="/images/20120721_300KmDepart.jpg" width="400" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Picture from the start. Courtesy <a href="http://pages.infinit.net/cvrm/">CVRM</a></td></tr>
 </tbody></table>
 I had just gotten back from a three week trip to Europe on Tuesday

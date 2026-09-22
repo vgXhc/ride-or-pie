@@ -11,7 +11,7 @@ tags = ["Magnum Photos", "review", "photography", "book"]
 <br />
 <br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2inX3D1l11SVGKxyAEww0aSfieiFfO9_uJ3Tp5fbkpS854u5YK5CZerfEjtppHU5gdYqpp7OzFsWb9ojAPggAzYtmccuM0zb-EZGLHpzR8O-mLs1IafXiwFdk_fHwob4Yck2yqbXB45o/s1600/PAR242339.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="442" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2inX3D1l11SVGKxyAEww0aSfieiFfO9_uJ3Tp5fbkpS854u5YK5CZerfEjtppHU5gdYqpp7OzFsWb9ojAPggAzYtmccuM0zb-EZGLHpzR8O-mLs1IafXiwFdk_fHwob4Yck2yqbXB45o/s640/PAR242339.jpg" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/PAR242339.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="442" src="/images/PAR242339.jpg" width="640" /></a></td></tr>
 <tr><td class="tr-caption">BELGIUM. Antwerpen (Antwerp), 1984 © John Vink</td></tr>
 </tbody></table>
 <br />

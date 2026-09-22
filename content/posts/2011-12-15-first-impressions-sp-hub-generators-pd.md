@@ -13,29 +13,29 @@ After having introduced their switchable dynamo (in my opinion a solution in sea
 <br />
 The hubs arrived yesterday, at a total price of 180 Euro shipped. The actual wheelbuilding will have to wait for a little while longer, but I wanted to share some pictures and impressions.<br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitk2yhsNp8vUiy8t9BwjvdKNOogxJ0MiVM6C3tQSiGDlSSmNngB0zHInyNWIp0Zb5CDZollu-55xze2EQvHNMMOdaHTVSZCaeaXNh1hxZ1Tmfd3VfJ2HpAoX45ITDD2gKA6HilxY-ly4s/s1600/DSC_5753.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="343" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitk2yhsNp8vUiy8t9BwjvdKNOogxJ0MiVM6C3tQSiGDlSSmNngB0zHInyNWIp0Zb5CDZollu-55xze2EQvHNMMOdaHTVSZCaeaXNh1hxZ1Tmfd3VfJ2HpAoX45ITDD2gKA6HilxY-ly4s/s400/DSC_5753.jpg" width="400" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/DSC_5753.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="343" src="/images/DSC_5753.jpg" width="400" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">PV-8 in its original packaging. I'm not sure if all the color and spoke count variants are or will be actually available.</td></tr>
 </tbody></table>
 <br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtk68HeimL3lLym3BtZlyqR-N3CDn6u6HGan4awY4j8HEwKjaJk8S1r8D_Hw-__u7ouf-iaeXDbzZ-NBBevnKXBu8Wk6c1HxxqSMlmC_rpMDbXjJ51moV44epURYCVUYUtwuGk6y_csvI/s1600/DSC_5756.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="290" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtk68HeimL3lLym3BtZlyqR-N3CDn6u6HGan4awY4j8HEwKjaJk8S1r8D_Hw-__u7ouf-iaeXDbzZ-NBBevnKXBu8Wk6c1HxxqSMlmC_rpMDbXjJ51moV44epURYCVUYUtwuGk6y_csvI/s400/DSC_5756.jpg" width="400" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/DSC_5756.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="290" src="/images/DSC_5756.jpg" width="400" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">The hub looks quite similar to the current <a href="http://nabendynamo.de/produkte/SON_28.html">SON 28</a>...</td></tr>
 </tbody></table>
 <br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD5_mprVJYIkoXJUDdwpcxi1BD5EGjPz6UaAX8UsoIGlBtPX6PnLFuX-SY6ctdHJm8aWwrWfxUGaywCWnzsllSxu67C4ZOkm5SkUoVmdKpDnkT3DqokIGcdxGphQyvwPsBz1KheHw0mF8/s1600/DSC_5755.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD5_mprVJYIkoXJUDdwpcxi1BD5EGjPz6UaAX8UsoIGlBtPX6PnLFuX-SY6ctdHJm8aWwrWfxUGaywCWnzsllSxu67C4ZOkm5SkUoVmdKpDnkT3DqokIGcdxGphQyvwPsBz1KheHw0mF8/s400/DSC_5755.jpg" width="283" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/DSC_5755.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="400" src="/images/DSC_5755.jpg" width="283" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">...but it does have the same terminal as Shimano hubs</td></tr>
 </tbody></table>
 <br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfXAcGKWRfMl5R76zmln-fKvwRVy_871dDdVbceK_qFI4Bv7FAQHAvCUjOyyAecQJZ-2SuNUiF1Km4muWBN770jkSiR80H5HjXumdGCkP0o9ABwXj505cUmAUbzCkM5C30qMrozXsMHqU/s1600/DSC_5754.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="231" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfXAcGKWRfMl5R76zmln-fKvwRVy_871dDdVbceK_qFI4Bv7FAQHAvCUjOyyAecQJZ-2SuNUiF1Km4muWBN770jkSiR80H5HjXumdGCkP0o9ABwXj505cUmAUbzCkM5C30qMrozXsMHqU/s320/DSC_5754.jpg" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/DSC_5754.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="231" src="/images/DSC_5754.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Here you can see the German K-certification wave, making the generator street legal in Germany</td></tr>
 </tbody></table>
 <br />
 <br />
 <br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfevZRfT2rkUaZkzYYFIwFlMQ_UWYFORTy4JZAmQQFwBQqKA0Ulr6pGgby2Iqy0nNMVhAky-aB5-VaYYERghhJK9LY-DInJc4UyRlP00zEypRJ94KyJWIIotq2qp3JjKDPdLJP1AVLxsA/s1600/DSC_5757.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfevZRfT2rkUaZkzYYFIwFlMQ_UWYFORTy4JZAmQQFwBQqKA0Ulr6pGgby2Iqy0nNMVhAky-aB5-VaYYERghhJK9LY-DInJc4UyRlP00zEypRJ94KyJWIIotq2qp3JjKDPdLJP1AVLxsA/s400/DSC_5757.jpg" width="302" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/DSC_5757.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="400" src="/images/DSC_5757.jpg" width="302" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">The weight pretty much exactly matches the claimed weight.</td><td class="tr-caption" style="text-align: center;"><br /></td><td class="tr-caption" style="text-align: center;"><br /></td></tr>
 </tbody></table>
 Both the disc and non-disc version of the hub match their claimed weight of 390 g and 410 g, compared to 440/460 for the new SON 28, 490 g for the Shimano DH3N80, and 399 g for the <a href="http://supernova-lights.com/de/produkte/infinity_s.html">Supernova Infinity S </a>(center lock disc mounts). Only the <a href="http://nabendynamo.de/produkte/SONdelux.html">SONdelux</a> at 390 g (rim) and 395 g (disc) can match this, but at a significantly higher price point.<br />
