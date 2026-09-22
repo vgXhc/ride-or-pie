@@ -1,0 +1,18 @@
++++
+title = "I don't like battery lights, but..."
+date = 2013-01-17T12:38:00+00:00
+lastmod = 2013-01-17T12:38:45.278000+00:00
+url = "/2013/01/i-dont-like-battery-lights-but.html"
+slug = "i-dont-like-battery-lights-but"
+tags = ["Philips", "lights", "SafeRide", "LBL"]
++++
+
+I'm a serious convert to and proselytizer for dynamo-powered lighting. Nothing beats the convenience and reliability of a generator hub and LED lighting, and other than our folder all the bikes in our household are thusly equipped. However, there are some circumstances when it makes sense to have battery lights. The problem with most battery lights sold in North America is that they have rotationally symmetric reflectors, meaning that most of the photons they shoot out end up somewhere other than the road in front of you -- not the least in the eyes of on-coming riders and drivers. In Germany this is verboten and there are elaborate standards for defining how much light can go where in a street-legal front light. One light that meets these standards is the Philips LBL (LED bike light). I have the Philips SafeRide 60, which is the dynamo-powered version of this light, and while it now might have been surpassed by the latest generation of B&amp;M lights, <a href="http://www.bumm.de/produkte/dynamo-scheinwerfer/lumotec-iq2-luxos.html">the Luxos series</a>, the <a href="http://swhs.home.xs4all.nl/fiets/tests/verlichting/index_en.html#Philips_saferide_led_dynamo">SafeRide has been the best dynamo front light out there</a>. It beats the <a href="http://www.bumm.de/produkte/dynamo-scheinwerfer/lumotec-iq-cyo.html">B&amp;M IQ Cyo</a> in beam pattern, light color, and brightness -- though not by much. The downside are its horrible aesthetics (they remind me of a really bad battery light I owned sometime in the 90s), its weight, and that it doesn't come with a daylight sensor. Having these characteristics, but with a different power source sounds like it would make a very decent light, and the reviews of the LBL are pretty positive (the most informative one can be found <a href="http://swhs.home.xs4all.nl/fiets/tests/verlichting/koplampen_accu_afkapping/Philips_LED_bike_light/index_en.html">here</a>).<br />
+<br />
+<a href="http://www.amazon.com/gp/product/B00620Z8M2/ref=as_li_ss_il?ie=UTF8&amp;tag=riorpi-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00620Z8M2"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&amp;Format=_SL160_&amp;ASIN=B00620Z8M2&amp;MarketPlace=US&amp;ID=AsinImage&amp;WS=1&amp;tag=riorpi-20&amp;ServiceVersion=20070822" /></a><img alt="" border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=riorpi-20&amp;l=as2&amp;o=1&amp;a=B00620Z8M2" style="border: none !important; margin: 0px !important;" width="1" />
+
+<br />
+<br />
+Why am I posting all this? Well, the Philips LBL is now <a href="http://www.amazon.com/gp/product/B00620Z8M2/ref=as_li_ss_tl?ie=UTF8&amp;tag=riorpi-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00620Z8M2">on sale at amazon.com</a> for merely 89 dollars. I don't live in the US at the moment and therefore can't buy the light, but if I could I would. No, I haven't strayed from the path of dynamo-enlightenment, but for 90 bucks I would totally buy this light -- as an additional light for those night-time brevets I hope to be doing this year, for the folding bike where installing a generator hub is tricky, or as a backup for the road bike that doesn't need a generator hub on many rides. <br />
+<br />
+<span style="font-size: x-small;">Hat tip to Steve Chan on the IBOB list for mentioning this deal. And <span style="font-size: x-small;">the usual disclaimer about amazon affiliate links applies.</span></span>

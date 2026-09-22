@@ -1,0 +1,97 @@
+baseURL = "https://ride-or-pie.netlify.app/"
+languageCode = "en-us"
+title = "Ride or Pie?!"
+theme = "PaperMod"
+enableRobotsTXT = true
+enableEmojiExtension = false
+pygmentsUseClasses = true
+
+[params]
+  env = "production"
+  title = "Ride or Pie?!"
+  description = "A bicycle blog from Madison (Wisconsin), with ride reports, reviews of bike components and accessories, and the occasional bicycle advocacy post."
+  keywords = ["blog", "cycling", "bicycle", "Madison", "Wisconsin", "touring", "randonneuring"]
+  author = "Hobbes vs Boyle"
+  DateFormat = "January 2, 2006"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = false
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  [params.homeInfoParams]
+    Title = "Ride or Pie?! \U0001F6B4"
+    Content = "Ride or pie -- the eternal question. Bike tech, ride reports, and other stuff few people care about. A bicycle blog from Madison, Wisconsin."
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "index.xml"
+  [[params.socialIcons]]
+    name = "youtube"
+    url = "https://www.youtube.com/@ride-or-pie"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[[menu.main]]
+  identifier = "reviews"
+  name = "Reviews"
+  url = "/tags/review/"
+  weight = 10
+[[menu.main]]
+  identifier = "ridereports"
+  name = "Ride reports"
+  url = "/tags/ride-report/"
+  weight = 20
+[[menu.main]]
+  identifier = "touring"
+  name = "Touring"
+  url = "/p/touring.html"
+  weight = 30
+[[menu.main]]
+  identifier = "coffeeneuring"
+  name = "#coffeeneuring"
+  url = "/p/coffeeneuring2016.html"
+  weight = 40
+[[menu.main]]
+  identifier = "ibob"
+  name = "iBOB Unmeeting"
+  url = "/p/ibob-unmeeting.html"
+  weight = 50
+[[menu.main]]
+  identifier = "archives"
+  name = "Archive"
+  url = "/archives/"
+  weight = 60
+[[menu.main]]
+  identifier = "search"
+  name = "Search"
+  url = "/search/"
+  weight = 70
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+
+[taxonomies]
+  tag = "tags"
+
+[minify]
+  disableXML = true

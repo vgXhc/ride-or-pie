@@ -1,0 +1,33 @@
++++
+title = "Have we reached a plateau? Latest figures on bike commuting in Madison, Dane County, and Wisconsin"
+date = 2014-09-23T23:17:00.003000+00:00
+lastmod = 2014-09-23T23:17:31.649000+00:00
+url = "/2014/09/have-we-reached-plateau-latest-figures.html"
+slug = "have-we-reached-plateau-latest-figures"
+tags = ["commuting", "mode share", "American Community Survey", "advocacy"]
++++
+
+There is much anticipation in the bike advocacy world around the annual release of the <a href="http://www.census.gov/acs/www/">American Community Survey</a> (ACS) by the US Census Bureau. Among a wealth of other data on the US and its population, the ACS also asks by which means of transportation people get to work. I decided to look at the data for my home town, county, and state—Madison, Dane County, Wisconsin.<br />
+<br />
+There are a multiple caveats on the data quality, but since there aren't many alternatives available, the ACS is still a valuable source of information of bicycle use and transportation trends. Some of the limitations become clear when we look at the <a href="http://www.census.gov/acs/www/Downloads/QbyQfact/PJ_work.pdf">actual question</a> asked:<br />
+<blockquote class="tr_bq">
+How did this person usually get to work LAST WEEK? If this person usually used more than one method of of transportation during the trip, mark (X) the box of the one used for most of the distance.</blockquote>
+So someone who bikes to work on two days and takes her car on three would count as a car commuter. Similarly, a person who rides 5 miles to the commuter rail station, takes the train downtown, and then walks to their office, would count as a train commuter. The other, less obvious limitation, which is especially relevant for Madison, is that students' trip to their university are not considered commutes and therefore not counted. And of course, trips to work constitute only part of all trips made.<br />
+<br />
+That said, let's look at the data, beginning at the state level.<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN1eZIbN9UWV0xOWjfFIxW-bhBT4uwt6LbX4KCTuwhFJ8qiisE4SnAfI8vrAKzeWj7Oud6vR4DLCr55oTJ6m7VIpU7Eq1i0AvgWJnvgOItczNX97l1bSmIdSgHzyhjlEZSHURAmNvH674/s1600/Bike+commuting+mode+share+WI.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN1eZIbN9UWV0xOWjfFIxW-bhBT4uwt6LbX4KCTuwhFJ8qiisE4SnAfI8vrAKzeWj7Oud6vR4DLCr55oTJ6m7VIpU7Eq1i0AvgWJnvgOItczNX97l1bSmIdSgHzyhjlEZSHURAmNvH674/s1600/Bike+commuting+mode+share+WI.png" height="356" width="640" /></a></div>
+<div class="separator" style="clear: both; text-align: left;">
+Maybe unsurprisingly, at the state level the picture for bike commuting appears rather bleak. Between 2006 and 2013 the rate of bike commuters has been basically flat and far below one percent. However, one must keep in mind that there are only six states in the whole of the United States that have a mode share of one percent or more, and the national average is 0.62%. Nonetheless, the flat trend raises some uncomfortable questions for bike advocates.</div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV5vgkHLOW-ZvICbytsSou4N-gj_7jq_-UHJe1VmKsYOu14cYJUBZi1N_eka9HuhCJ0ty1dTkC66VgpBnhCvlmi3-S1ZPBKzYN_U7CwZJ5XmUWp1uWBHPiB9wpX2gddAF4mAdHDfp5rVw/s1600/Bike+commuting+mode+share+Dane.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV5vgkHLOW-ZvICbytsSou4N-gj_7jq_-UHJe1VmKsYOu14cYJUBZi1N_eka9HuhCJ0ty1dTkC66VgpBnhCvlmi3-S1ZPBKzYN_U7CwZJ5XmUWp1uWBHPiB9wpX2gddAF4mAdHDfp5rVw/s1600/Bike+commuting+mode+share+Dane.png" height="356" width="640" /></a></div>
+&nbsp;How do things look in Dane County? The proportion of people riding their bike to work is significantly higher than at the state level, and over the seven-year period there also is a small but noticeable increase in bike commuting.<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpvuTEQ1Wt_emJGSb6rF6HyZ0HBQuT2aWa9QWB31eXEMjUU1ZWH1eMK4PEEdHajvJU5zlNBOGyW_SKUI369_5dNrJGcSxgcBGqlw_s-F6kMS5IY-RgwdeIUbEYaOx0ObkVxkIh75DacII/s1600/Bike+commuting+mode+share+Madison.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpvuTEQ1Wt_emJGSb6rF6HyZ0HBQuT2aWa9QWB31eXEMjUU1ZWH1eMK4PEEdHajvJU5zlNBOGyW_SKUI369_5dNrJGcSxgcBGqlw_s-F6kMS5IY-RgwdeIUbEYaOx0ObkVxkIh75DacII/s1600/Bike+commuting+mode+share+Madison.png" height="356" width="640" /></a></div>
+This pattern repeats itself at a higher level in Madison. Given that Madison respondents make up roughly half of those of Dane County, this comes as no surprise. As you can see with the dotted lines in the charts, at the county and city level the margins of error are quite sizable, and conclusions about trends should be taken with a grain of salt. But when we compare the Dane and Madison data with cities with a <a href="http://bikeportland.org/2014/09/18/census-shows-big-leaps-biking-cities-portland-inches-backward-111088#more-111088">similarly high rate of bike commuting</a>, it appears that the growth in bike commuting may have plateaued over the past couple of years. Cities with a initially low bike commute share, such as New York City or Washington DC, continue their growth, but once the rate reaches around five percent, growth appears harder to attain.<br />
+<br />
+I am not going to address the potential explanations for this plateau effect, but feel free to put forward your theories in the comments, especially as they pertain to the specific situation in Wisconsin and Madison. In the meantime I will try to get access to the Madison bike counter data, which would allow some cross-validation of the ACS data.<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglT_6Ui9Qd4gtTgThWa8fFdyl58pNrgGYmPbAb4WxDaFljofymZhDq2WoFFXYJo9VkUktS0ZzNB18cucw-uHXW9rPgU0JcNh-_smkmDjJs1hFSUGANGi7YFrIZxniz5DnOs3ZR8dolWsU/s1600/Bike+commuting+mode+share+combined.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglT_6Ui9Qd4gtTgThWa8fFdyl58pNrgGYmPbAb4WxDaFljofymZhDq2WoFFXYJo9VkUktS0ZzNB18cucw-uHXW9rPgU0JcNh-_smkmDjJs1hFSUGANGi7YFrIZxniz5DnOs3ZR8dolWsU/s1600/Bike+commuting+mode+share+combined.png" height="398" width="640" /></a></div>
+

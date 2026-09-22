@@ -1,0 +1,22 @@
++++
+title = "Ride report: 150 cold kilometers"
+date = 2011-11-21T18:46:00.001000+00:00
+lastmod = 2013-07-28T22:33:56.100000+00:00
+url = "/2011/11/ride-report-150-cold-kilometers.html"
+slug = "ride-report-150-cold-kilometers"
+tags = ["ride report", "winter trophy", "Winterpokal", "Route des Champs", "Quebec", "winter", "Route Verte"]
++++
+
+It's time for the <a href="http://winterpokal.rennrad-news.de/">annual winter trophy</a> again, and this year I'm member of <a href="http://winterpokal.rennrad-news.de/teams/view/26">a pretty hardcore team</a>. My last two weekends were spent with conference and work travel and I had fallen behind quite a bit. The weather forecast for Saturday looked okay -- about 5 degrees and dry -- and so I decided to do what could be the last really long ride of the season. I combined a bit of a previous route with some new bits, resulting in a 150km course that would be almost exclusively on bike paths and lanes.<br />
+<br />
+I made up my mind of where to go last minute, as per usual, and only got on the road around 11:30. The only crossing of the St. Lawrence that hasn't been closed for the winter yet is the Jacques-Cartier Bridge. The offramp of the bridge is only a few blocks away from the <a href="http://www.routeverte.com/routeverte_carte/index.php?langue=en&amp;lon=-8154840.73580673&amp;lat=5667046.97146306&amp;zoom=4&amp;r=monteregie">Route Verte 1</a>, which led me out of Longueil first on bike lanes/cycle tracks and then on bike paths more or less away from traffic. There was a steady headwind coming from the south which kept my speed at around 20 km. Once I reached Chambly I made my first stop of the day on the beautiful shore of Lake Chambly. One of the things that suck when biking in the winter is that you can't really have any longer outside stops, and thus only ate a Clif Bar (as an aside: their new coconut-something flavor is great!). I had done this part of the ride before on the <a href="http://biketopus.blogspot.com/2011/08/metric-century.html">100k-ride with the Biketopus</a>, but now I crossed the Richelieu river instead of continuing along the Chambly Canal.<br />
+<br />
+On the <a href="http://www.opencyclemap.org/?zoom=9&amp;lat=45.50943&amp;lon=-73.45338&amp;layers=B0">OpenCycleMap</a> I had found the <a href="http://www.laroutedeschamps.qc.ca/">Route des Champs</a> which leads east toward Granby. The description on their website promised a mostly paved, partly gravel route and so I was quite shocked when I got to what I thought was the trailhead outside of Chambly: the trail was basically an old railway bed with the tracks removed. I tried riding on it for maybe 50m, but it was almost impossible to ride on the loose rocks. At the next intersection I stopped and considered my alternatives. Only then did I spot the actual trail only 30 meters to the north, parallel to the busy highway. Phew. <br />
+<br />
+The Route de Champs was very nice to ride on: very long straight stretches, few intersections, and a nice hardpacked gravel surface. The Route des Champs meets the Route Verte 1 in Granby, but that would've been too far and thus I turned south in Saint-Cesaire, now following the Yamaska River on a very quiet country road with surprisingly good pavement.<br />
+<br />
+In Farnham I then turned west again on the Route Verte/<a href="http://grandquebec.com/monteregie/monteregiade/">Monteregiade</a> and took another Clif Bar stop, which was highly overdue -- I could already feel some bonking symptoms. The Monteregiade, built on the right-of-way of a former CN railroad, is lovely to bike on and for the first time on the ride I had a bit of a tailwind. After less than an hour I arrived in St. Jean-sur-Richelieu and took another rest stop at the gas station (note to self: never again buy grape-flavored Gatorade). I was a bit disheartened to see a Route Verte sign saying "Montreal 60 km," but once I got going I felt pretty good again.<br />
+<br />
+It was pitch black at this point, but with my trusty B&amp;M Cyo lights riding the gravel trail along the Chambly Canal was very pleasant. The ride back to Montreal was not very eventful and after almost exactly 150 km and 7 h 25 minutes I arrived back home. The 29 Winterpokal points (at least temporarily) catapulted me on the third place in our team. <br />
+<br />
+<iframe frameborder="0" height="400" marginheight="0" marginwidth="0" scrolling="no" src="http://www.gpsies.com/mapOnly.do?fileId=mqmirvovfzwwxoig" width="400"></iframe>

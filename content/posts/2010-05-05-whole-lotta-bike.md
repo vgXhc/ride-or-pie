@@ -1,0 +1,25 @@
++++
+title = "A whole lotta bike"
+date = 2010-05-05T18:28:00+00:00
+lastmod = 2010-05-06T02:36:31.846000+00:00
+url = "/2010/05/whole-lotta-bike.html"
+slug = "whole-lotta-bike"
+tags = ["ride report", "racing", "Gunnar", "Sunday Ride"]
++++
+
+Last Sunday was a day full of various kinds of bike-related events: I volunteered at the <a href="http://flcycling.org/?p=1359">Hollenbecks Spring Classic</a> race, organized by the FLCC, and I did a lot of riding. Leaving the house at 7 am, I rode Gunnar out about 30 km to the start of the race, Hollenbeck's Cider Mill in Virgil. It hadn't cooled down much during the night and the forecast predicted a hot and potentially thunderstormy day. I coated myself in a thick layer of sunscreen and hopped on the bike in just shorts and a short-sleeve jersey. Because it was early Sunday morning, I took the most direct route, following NY-366 and 13 to Dryden, and then 392 to Virgil. As expected, there wasn't much traffic and the only thing I was struggling with was the fact that I can't eat that early in the morning and was therefore pacing along on an empty stomach. Nonetheless, I got to Virgil well before the scheduled pre-race meeting for the corner marshals. <br />
+<br />
+After we had been assigned our corners, I had about 35 minutes left before the start of the race and so I decided to ride out to the corner instead of getting a ride. The distance was 9 miles and involved one large climb, meaning that I'd have to put in quite a bit of an effort to make it in time. The racers warming up on 392 at a more leisurely pace were probably wondering why that guy with a Carradice saddle bag and baggy shorts was passing them at maximum effort... Well, I got to my corner just before the other volunteers arrived by car and then had 3 hours of flag waving, <a href="http://ride-or-pie.blogspot.com/2010/05/hollenbecks-video-footage.html">videotaping</a>, and waiting for the next pack of riders to come through. After the last rider had made past our corner, I rode back to the cider mill and after hanging around for the little ceremony for the winners, I decided to ride back immediately in an effort to avoid getting t-stormed upon.<br />
+<br />
+On the way to Dryden I could really feel my legs and I decided that I definitely needed water, electrolytes, and calories. Well, what better way to get all these things at once than going to McD and having large fries and a large coke? And indeed, this made me feel much better! So I got going again and thought of ways of lengthening the way back to Ithaca in a way that would make my total kilometrage that day get over 100 (at the McD in Dryden I was at 70km). Initially I thought I'd just ride out to the airport and take NY-34 back into town instead of following Upper and Lower Creek Road into campus. However, as I was feeling really good and the weather had gotten better again, I decided to something a bit more crazy: ride out to the airport but then not return to Ithaca but instead follow the route of the FLCC "<a href="http://flcycling.org/?page_id=118">Almost Genoa</a>" ride that <a href="http://ride-or-pie.blogspot.com/2010/04/flcc-sunday-ride-attempt-2.html">I had done</a> a couple of weeks ago. And that I did.<br />
+<br />
+For the part of the route that heads north, I was doing fine. The strong winds were mostly coming from the side to back and the route is rather flat. The climbing along NY-90 made me feel my legs again but the prospect of getting to the gas station at the intersection NY-90 and -34 propelled me forward. At the gas station I took a quick break to down a bottle of Gatorade -- and made the mistake of not also topping up my water bottles. On the way back south, first following 34 and then Salmon Creek, I had to head into the wind (even though not as badly as I expected it to be) and my body got more and more complainy. My butt hurt, my legs and upper arms were tired, and overall I felt a bit bonked. The steep climb up Brickyard Rd certainly didn't make things better and I was also running out of water. Anyway, in the end I made it all the way home, having ridden almost exactly 150 km, at an average moving pace of 25 km/h. Pretty epic, I'd say.<br />
+<br />
+Lessons for future long distance rides:<br />
+<ul><li>find a way to deal with the breakfast issue. Maybe I can force myself to have some liquid calories in the morning?</li>
+<li>The Brooks did a good job but nonetheless my butt did hurt quite a bit. Not sure what to do about that.&nbsp;</li>
+<li>Gunnar rode like a charm. I think running 700x23c tires works very well, even over long distances. I might raise the handlebars a little bit to put less stress on my arms.&nbsp; </li>
+<li>Drink more. Eat more. As much as I know how important this is, on the ride I still keep on ignoring this knowledge.</li>
+</ul>As soon as I have the time, I'll try the 200k to Lake Ontario and back.<br />
+<br />
+<iframe frameborder="0" height="400" marginheight="0" marginwidth="0" scrolling="no" src="http://www.gpsies.com/mapOnly.do?fileId=anvfdvymyvfwjkbh" title="GPSies - Hollenbeck Genoa Loop" width="390"></iframe>
