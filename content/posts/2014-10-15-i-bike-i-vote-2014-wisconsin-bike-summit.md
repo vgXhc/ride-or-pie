@@ -4,7 +4,7 @@ date = 2014-10-15T16:03:00.001000+00:00
 lastmod = 2014-10-15T16:03:52.751000+00:00
 url = "/2014/10/i-bike-i-vote-2014-wisconsin-bike-summit.html"
 slug = "i-bike-i-vote-2014-wisconsin-bike-summit"
-tags = ["Wisconsin Bike Summit", "#wibikesummit", "Wisconsin", "advocacy"]
+tags = ["Wisconsin Bike Summit", "Wisconsin", "advocacy"]
 +++
 
 Last Friday I attended the 2014 edition of the annual Wisconsin Bike Summit in Madison. Having just recently relocated to Madison, I figured the summit would be a great opportunity to connect with the local and state-wide bike advocacy scene. The schedule of the summit was packed, with three concurrent tracks. First, however, were the opening remarks by <a href="http://michaeljohnsonceo.com/">Michael Johnson</a>. Johnson is the highly charismatic CEO of the <a href="http://www.bgcdc.org/">Dane County Boys &amp; Girls Club</a>—and also an avid cyclist who goes on weekly group rides at 4:30 in the morning!<br />
