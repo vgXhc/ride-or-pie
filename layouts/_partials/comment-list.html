@@ -1,0 +1,16 @@
+{{- $comments := .comments -}}
+{{- $depth := .depth -}}
+<ul class="comment-list depth-{{ $depth }}">
+  {{- range $comments }}
+  <li class="comment">
+    <div class="comment-meta">
+      <span class="comment-author">{{ .author }}</span>
+      <span class="comment-date">{{ dateFormat "Jan 2, 2006" .date }}</span>
+    </div>
+    <div class="comment-body">{{ .content | htmlUnescape | safeHTML }}</div>
+    {{- if .replies }}
+    {{- partial "comment-list.html" (dict "comments" .replies "depth" (add $depth 1)) }}
+    {{- end }}
+  </li>
+  {{- end }}
+</ul>

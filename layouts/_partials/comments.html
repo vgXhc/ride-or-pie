@@ -1,0 +1,39 @@
+{{- /* Archived Blogger comments, if this page has any. */ -}}
+{{- $slug := .Slug -}}
+{{- $comments := index site.Data.comments $slug -}}
+{{- if $comments }}
+<div class="archived-comments">
+  <h2>{{ len $comments }} Archived Comment{{ if ne (len $comments) 1 }}s{{ end }}</h2>
+  <p class="archived-comments-note">
+    These comments were migrated from the original Blogger post and are
+    preserved here for reference. Use the box below to leave a new comment.
+  </p>
+  {{- partial "comment-list.html" (dict "comments" $comments "depth" 0) }}
+</div>
+{{- end }}
+
+{{- /* New comments going forward, via Giscus (https://giscus.app). */ -}}
+{{- /*
+  To enable: run through the setup wizard at https://giscus.app against your
+  GitHub repo (GitHub Discussions must be turned on for the repo first),
+  then fill in the five data- values below from what the wizard gives you.
+  Until data-repo is filled in, this widget is left out of the page.
+*/ -}}
+{{- $giscusRepo := "" }}
+{{- if $giscusRepo }}
+<script src="https://giscus.app/client.js"
+        data-repo="{{ $giscusRepo }}"
+        data-repo-id=""
+        data-category=""
+        data-category-id=""
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+{{- end }}
