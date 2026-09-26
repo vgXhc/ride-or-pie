@@ -15,9 +15,9 @@ Madison doesn't have passenger rail. Over the past year, there have been a lot o
 
 In 2024 I did that trip for the first time, on my fixie: Bike to Harvard, take the Metra commuter train into downtown Chicago. And for the way back, Amtrak train to Milwaukee and bike back from there. I documented that trip in two videos.
 
-<iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/5VXlzusTITA" youtube-src-id="5VXlzusTITA"></iframe>
+{{< youtube 5VXlzusTITA  >}}
 
-<iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/ugAYRV6ln8M" youtube-src-id="ugAYRV6ln8M"></iframe>
+{{< youtube ugAYRV6ln8M  >}} 
 
 This year there was another opportunity. A grad school friend was going to be in Chicago. My significant other had a hotel room booked already and so I might as well join! The plan: Leave early on Saturday, catch a mid-day train and arrive in Chicago in the afternoon. Have some fun, eat a lot, sleep. Do the reverse the next day.
 
@@ -46,7 +46,7 @@ The riding was going well enough that for a while I thought I may be able to cat
 
 The Metra train is great for bringing on your bike: Most cars have a bike rack and no extra ticket is required for the bike. And if you do a Saturday/Sunday trip like I did, you can buy a weekend pass for $10.
 
-![The Chicago River and the skyscrapers surrounding it](images/PXL_20260329_130257387.RAW-01.jpg]
+![The Chicago River and the skyscrapers surrounding it](images/PXL_20260329_130257387.RAW-01.jpg)
 
 # The way back
 
