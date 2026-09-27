@@ -4,7 +4,11 @@ date: 2026-09-06T12:08:40.587000+00:00
 lastmod: 2026-09-06T12:08:40.587000+00:00
 url: "/2026/09/some-new-alps-videos.html"
 slug: "some-new-alps-videos"
-tags: ["ride report", "credit card touring", "Alps", "video"]
+tags: 
+- ride report
+- credit card touring
+- Alps
+- video
 cover:
   image: "/images/youtube-video-preview.jpg"
   alt: "Video still from Harald and Ben 11 Days through the Alps YouTube video"
