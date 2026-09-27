@@ -118,7 +118,7 @@ A practically car-free ascent on many switchbacks and an absolutely spectacular 
 
 When making our decision to add the Col de Solude, one consideration was that the next day would have us do the famous L'Alpe d'Huez climb. Ben and I agreed that if our legs and bodies didn't feel right, we'd be okay skipping that or only doing two thirds before turning off to the Pas de la Confession. To nobody's surprise: We ditched all those considerations the next day and rode all the way up the Alpe. How could we not? 
 
-![](/images/2026-alps/20260913-A-sign-near-the-bottom-of-the-Alpe-d'Huez-climb,-noting-that-there-are-13-km-to-go-and-the-next-kilometer-has-an-average-gradient-of-11.1%.jpg)
+![](/images/2026-alps/20260913-A-sign-near-the-bottom-of-the-Alpe-d'Huez-climb,-noting-that-there-are-13-km-to-go-and-the-next-kilometer-has-an-average-gradient-of-11.1.jpg)
 
 ![](/images/2026-alps/20260913-Looking-down-from-the-Alpe-d'Huez-climb-over-some-of-its-switchbacks-and-the-opposing-side-of-the-valley-.jpg)
 
