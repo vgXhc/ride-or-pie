@@ -6,7 +6,7 @@ url: "/2026/09/some-new-alps-videos.html"
 slug: "some-new-alps-videos"
 tags: ["ride report", "credit card touring", "Alps", "video"]
 cover:
-  image: "images/youtube-video-preview.png"
+  image: "images/youtube-video-preview.jpg"
   alt: "Video still from Harald and Ben 11 Days through the Alps YouTube video"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 +++
