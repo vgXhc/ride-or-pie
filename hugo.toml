@@ -32,7 +32,7 @@ pygmentsUseClasses = true
   tocopen = false
 
   [params.homeInfoParams]
-    Title = "Ride or Pie?! \U0001F6B4"
+    Title = "Ride or Pie?!"
     Content = "Ride or pie -- the eternal question. Bike tech, ride reports, and other stuff few people care about. A bicycle blog from Madison, Wisconsin."
 
   [[params.socialIcons]]
