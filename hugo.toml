@@ -31,6 +31,11 @@ pygmentsUseClasses = true
   showtoc = false
   tocopen = false
 
+  [params.cover] 
+     hidden = false
+     hiddenInList: false
+     hiddenInSingle: false
+
   [params.homeInfoParams]
     Title = "Ride or Pie?!"
     Content = "Ride or pie -- the eternal question. Bike tech, ride reports, and other stuff few people care about. A bicycle blog from Madison, Wisconsin."
