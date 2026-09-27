@@ -15,7 +15,7 @@ I promote my videos on a few different social media platforms, but I just rememb
 
 The release frequency is slow and uneven, but there are several new episode about the 2024 Alps trip on my YouTube channel at this point. [Last time I posted about this](https://ride-or-pie.netlify.app/2025/03/videos-from-alps), we had only just gotten into the Alps, on day 2 of the trip. Now we're up to day 8 out of the 11 total days.
 
-# Day 3: The pass not taken<
+# Day 3: The pass not taken
 
 Day 3 of our bike trip through the Alps. The original plan would have 
 taken us up the Kunkelspass. But since Ben's knees were still not great 
