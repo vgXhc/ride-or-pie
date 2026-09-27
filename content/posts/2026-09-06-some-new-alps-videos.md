@@ -1,4 +1,4 @@
-+++
+---
 title: "Some new Alps videos!"
 date: 2026-09-06T12:08:40.587000+00:00
 lastmod: 2026-09-06T12:08:40.587000+00:00
@@ -9,7 +9,7 @@ cover:
   image: "/images/youtube-video-preview.jpg"
   alt: "Video still from Harald and Ben 11 Days through the Alps YouTube video"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
-+++
+---
 
 I promote my videos on a few different social media platforms, but I just remembered that I haven't posted much on here lately. Let's rectify this!
 
