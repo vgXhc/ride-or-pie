@@ -32,9 +32,9 @@ pygmentsUseClasses = true
   tocopen = false
 
   [params.cover] 
-     hidden = false
-     hiddenInList: false
-     hiddenInSingle: false
+    hidden = false
+    hiddenInList: false
+    hiddenInSingle: false
 
   [params.homeInfoParams]
     Title = "Ride or Pie?!"
