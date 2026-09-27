@@ -1,0 +1,72 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
+        },
+        {
+          "title": "url",
+          "name": "url",
+          "type": "string"
+        },
+        {
+          "title": "tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "cover",
+          "name": "cover",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "image",
+              "name": "image",
+              "type": "image"
+            },
+            {
+              "title": "alt",
+              "name": "alt",
+              "type": "string"
+            },
+            {
+              "title": "relative",
+              "name": "relative",
+              "type": "boolean"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.content.pageFolders": [
+    {
+      "path": "[[workspace]]/content",
+      "title": "content"
+    },
+    {
+      "title": "posts",
+      "path": "[[workspace]]/content/posts"
+    }
+  ]
+}
