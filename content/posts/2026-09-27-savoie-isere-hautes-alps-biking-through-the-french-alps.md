@@ -9,10 +9,10 @@ tags:
   - ride report
   - photo essay
 cover:
-  image: /images/2026-alps/20260911-Mont Granier with the bright sun behind it-.jpg
+  image: /images/2026-alps/20260911-Mont%20Granier%20with%20the%20bright%20sun%20behind%20it-.jpg
   relative: false
 draft: false
-preview: /images/2026-alps/20260911-Mont Granier with the bright sun behind it-.jpg
+preview: /images/2026-alps/20260911-Mont%20Granier%20with%20the%20bright%20sun%20behind%20it-.jpg
 ---
 
 Ben and I have been on the road again. This is our third trip together: In 2024 we rode through the [Swiss and Italian Alps](https://www.youtube.com/playlist?list=PLVYvBhWNmbN1s1mKJQtem4c2NcO8DjMCT). And earlier this year, we did [a quick tour through Wisconsin](https://twobikersabroad.orangebikelabs.com/tag/spring2026/). And now we were in France, doing a weeklong loop from Geneva. On his blog, Ben has [day-by-day accounts of our trip](https://twobikersabroad.orangebikelabs.com/tag/alps2026/). In this post, I'll focus on the photos that I took along the way. 
