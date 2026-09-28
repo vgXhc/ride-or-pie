@@ -35,6 +35,9 @@ pygmentsUseClasses = true
     hidden = false
     hiddenInList = false
     hiddenInSingle = false
+  
+  [params.assets]
+    favicon = favicon.ico
 
   [params.homeInfoParams]
     Title = "Ride or Pie?!"
