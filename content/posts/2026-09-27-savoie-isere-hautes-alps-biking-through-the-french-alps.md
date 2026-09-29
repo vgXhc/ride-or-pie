@@ -17,7 +17,7 @@ preview: /images/2026-alps/20260911-Mont-Granier-with-the-bright-sun-behind-it-.
 
 Ben and I have been on the road again. This is our third trip together: In 2024 we rode through the [Swiss and Italian Alps](https://www.youtube.com/playlist?list=PLVYvBhWNmbN1s1mKJQtem4c2NcO8DjMCT). And earlier this year, we did [a quick tour through Wisconsin](https://twobikersabroad.orangebikelabs.com/tag/spring2026/). And now we were in France, doing a weeklong loop from Geneva. On his blog, Ben has [day-by-day accounts of our trip](https://twobikersabroad.orangebikelabs.com/tag/alps2026/). In this post, I'll focus on the photos that I took along the way. 
 
-I had gone back and forth on whether I should bring a "proper" camera. In the end, all these photos were taken with my Google Pixel 10, shot in RAW and edited in Lightroom. Because there a lot of photos, I'll split the post into two parts.
+I had gone back and forth on whether I should bring a "proper" camera. In the end, all these photos were taken with my Google Pixel 10 (edit: It's actually a 10a), shot in RAW and edited in Lightroom. Because there a lot of photos, I'll split the post into two parts.
 
 ![Ben is riding a loaded gravel bike up a mountain. There are low hanging clouds shrouding the top of the mountains and the horizon, and the road is wet. The grass is mostly yellow.](/images/2026-alps/20260909-Ben-is-riding-a-loaded-gravel-bike-up-a-mountain.-There-are-low-hanging-clouds-shrouding-the-top-of-the-mountains-and-the-horizon,-and-the-road-is-wet.-The-grass-is-mostly-yellow-.jpg)
 
