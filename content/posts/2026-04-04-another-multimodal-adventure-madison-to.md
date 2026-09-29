@@ -20,7 +20,7 @@ In 2024 I did that trip for the first time, on my fixie: Bike to Harvard, take t
 
 {{< youtube 5VXlzusTITA  >}}
 
-{{< youtube ugAYRV6ln8M  >}} 
+{{< youtube ugAYRV6ln8M  >}}
 
 This year there was another opportunity. A grad school friend was going to be in Chicago. My significant other had a hotel room booked already and so I might as well join! The plan: Leave early on Saturday, catch a mid-day train and arrive in Chicago in the afternoon. Have some fun, eat a lot, sleep. Do the reverse the next day.
 
@@ -38,12 +38,11 @@ Aside from the cold, it was a beautiful morning. A clear sky, birds singing, not
 
 ![A farm implement on an otherwise large fallow farm field.](/images/PXL_20260329_180556817.RAW-01.jpg)
 
-
 The route I had created prioritized short distance and low traffic roads. Scenery, on the other hand, was not a priority. The parts of Wisconsin and Illinois I was riding through are flat and agricultural. In March that means endless shades of brown fields, with the occasional farm house or town in between.
 
 ![Road sign for State Line Road, separating Wisconsin and Illinois](/images/PXL_20260328_162440285.RAW-01.jpg)
 
-The riding was going well enough that for a while I thought I may be able to catch the earlier train. It would be tight, but maybe I could increase my effort and cut a few kilometers off the planned route. However, as the sun rose not only did the temperatures go up but so did the wind. And it was not in my favor. So I had to resign to the fact that I would arrive much too early for the 1:35 pm train but had no realistic chance of catching the 11:35 am. Ah well. I dialed my effort back down and arrived in Harvard at 12:08, after 5h 48 minutes. My moving time was only 13 minutes less than that---when it's this cold, you really need to minimize the time stopped! Harvard has a very nice coffee shop, <a href="https://www.facebook.com/themugcoffeehouse/" rel="nofollow" target="_blank">The Mug</a>, one block from the train station, and I slowly warmed myself up with a "golden oat latte."
+The riding was going well enough that for a while I thought I may be able to catch the earlier train. It would be tight, but maybe I could increase my effort and cut a few kilometers off the planned route. However, as the sun rose not only did the temperatures go up but so did the wind. And it was not in my favor. So I had to resign to the fact that I would arrive much too early for the 1:35 pm train but had no realistic chance of catching the 11:35 am. Ah well. I dialed my effort back down and arrived in Harvard at 12:08, after 5h 48 minutes. My moving time was only 13 minutes less than that---when it's this cold, you really need to minimize the time stopped! Harvard has a very nice coffee shop, [The Mug](https://www.facebook.com/themugcoffeehouse/), one block from the train station, and I slowly warmed myself up with a "golden oat latte."
 
 ![My pink bicycle in the bike area of a Metra train](/images/PXL_20260328_182349925.RAW-01.MP.jpg)
 
@@ -70,7 +69,8 @@ It is hard to convey how good a strong tailwind feels. You forget your tired leg
 I arrived back home after 5h 20 min, in an elated state of mind. These types of ride make me fall in love with biking over and over again. They're ridiculous, hard, easy, fun, memorable.
 
 # The stats
-## Madison to Harvard:
+
+## Madison to Harvard
 
 - [Strava link](https://www.strava.com/activities/17891562779)
 - Distance: 134.06 km (83.3 mi)
@@ -78,7 +78,7 @@ I arrived back home after 5h 20 min, in an elated state of mind. These types of 
 - Elapsed time: 5:48:06
 - Average speed: 24.0 km/h (14.9 mph)
 
-## Harvard to Madison: 
+## Harvard to Madison
 
 - [Strava link(https://www.strava.com/activities/17906829564)
 - Distance 130.31 km (81.0 mi)
@@ -86,4 +86,4 @@ I arrived back home after 5h 20 min, in an elated state of mind. These types of 
 - Elapsed time: 5:20:28
 - Average speed: 26.3 km/h (16.3 mph)
 
-* Technically, the nearest train station is Columbus, WI, from where you could take the Empire Builder long-distance train to Chicago. But that train runs once a day, is expensive, and (because it comes all the way from the West Coast) is often delayed by many hours. Milwaukee is another option, but you need a reservation and extra bike ticket for the Hiawatha service.
+\* Technically, the nearest train station is Columbus, WI, from where you could take the Empire Builder long-distance train to Chicago. But that train runs once a day, is expensive, and (because it comes all the way from the West Coast) is often delayed by many hours. Milwaukee is another option, but you need a reservation and extra bike ticket for the Hiawatha service.

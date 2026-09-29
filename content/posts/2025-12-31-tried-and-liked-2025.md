@@ -56,7 +56,7 @@ For my winter indoor riding I switched back from Training Peaks Virtual to Zwift
 I still go back and forth between liking and disliking them. Just yesterday I had a flat that
 most likely wouldn't have happened with a butyl tube. While on other bikes the tubes have performed great.
 
-## [Lumintop B01 front light](https://amzn.to/45oM6ip)
+## [Lumintop B01 front light](https://amzn.to/45oM6ip) (affiliate link)
 
 One of the battery lights I acquired this year. It doesn't conform with the German cut-off regulations, but it does have a shaped beam that doesn't blind oncoming riders. And it's relatively cheap, has a replaceable battery and seems sturdy. I think I like it, but it hasn't been long enough to be sure.
 
