@@ -5,6 +5,9 @@ lastmod = 2025-11-27T16:10:36.249000+00:00
 url = "/2025/11/coffeeneuring-2025-six-weeks-seven-rides.html"
 slug = "coffeeneuring-2025-six-weeks-seven-rides"
 tags = ["coffeeneuring", "ride report", "Wisconsin"]
+[cover]
+  image = "/images/87001c75a2d88785.jpg"
+  alt = "My pink bike leaning against a tree with bright red foliage. Grace Coffee building in the background"
 +++
 
 I used to be a regular Coffeeneur (and have the patches to prove it). For a few years, though, I have been on a break. I'm not sure why. Probably a lack of new destinations, riding indoors more? Anyways, this year I returned.
