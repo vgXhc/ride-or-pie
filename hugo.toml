@@ -52,6 +52,9 @@ pygmentsUseClasses = true
   [[params.socialIcons]]
     name = "youtube"
     url = "https://www.youtube.com/@ride-or-pie"
+  [[params.socialIcons]]
+    name = "mastodon"
+    url = "https://fosstodon.org/@haraldkliems/"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
