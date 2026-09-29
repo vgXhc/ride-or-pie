@@ -5,6 +5,9 @@ lastmod = 2026-04-04T17:21:44.775000+00:00
 url = "/2026/04/another-multimodal-adventure-madison-to.html"
 slug = "another-multimodal-adventure-madison-to"
 tags = ["ride report", "Chicago", "Wisconsin", "Madison", "Harvard (IL)"]
+[cover]
+  image = "/images/PXL_20260328_112850305.RAW-01.jpg"
+  alt = "A smooth Lake Monona just before sunset"
 +++
 
 ![A smooth Lake Monona just before sunset](/images/PXL_20260328_112850305.RAW-01.jpg)
