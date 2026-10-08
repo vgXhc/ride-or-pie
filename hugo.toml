@@ -77,13 +77,8 @@ pygmentsUseClasses = true
 [[menu.main]]
   identifier = "coffeeneuring"
   name = "#coffeeneuring"
-  url = "/p/coffeeneuring2016.html"
+  url = "/tags/coffeeneuring.html"
   weight = 40
-[[menu.main]]
-  identifier = "ibob"
-  name = "iBOB Unmeeting"
-  url = "/p/ibob-unmeeting.html"
-  weight = 50
 [[menu.main]]
   identifier = "archives"
   name = "Archive"
