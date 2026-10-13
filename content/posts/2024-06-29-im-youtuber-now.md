@@ -5,6 +5,27 @@ lastmod = 2024-06-29T12:30:36.795000+00:00
 url = "/2024/06/im-youtuber-now.html"
 slug = "im-youtuber-now"
 tags = ["ride report", "video", "YouTube"]
+[cover]
+  image = "/images/YouTube-channel-header.png"
+  alt = "The header of my YouTube channel, Ride or Pie?!"
 +++
 
-<p>&nbsp;It's been a while since I've published here. It's not for a lack of riding -- I've ridden more than ever this year. The reason is that I bought an Osmo Action 4 camera and am trying my hand at ride videos. Video editing has a steep learning curve, but I think I'm getting better. Here are a couple videos I produced in the past months.</p><h4 style="text-align: left;">An overnight trip to Beaver Dam, with headwind both ways <br /></h4><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="360" src="https://www.youtube.com/embed/y50Bm1LalyI" width="640" youtube-src-id="y50Bm1LalyI"></iframe>&nbsp;</div><div class="separator" style="clear: both; text-align: center;">&nbsp;</div><br /><h4 style="text-align: left;">The Great Sauk State Trail</h4><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="360" src="https://www.youtube.com/embed/J4YbhxlLPuk" width="640" youtube-src-id="J4YbhxlLPuk"></iframe></div><h4 style="text-align: left;">My first Permanent in 2024</h4><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="360" src="https://www.youtube.com/embed/pj9vPz5RY3Y" width="640" youtube-src-id="pj9vPz5RY3Y"></iframe></div><br /><h4 style="text-align: left;">Madison to Chicago and back, by train an fixed gear bike</h4><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="360" src="https://www.youtube.com/embed/5VXlzusTITA" width="640" youtube-src-id="5VXlzusTITA"></iframe></div><br /><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="360" src="https://www.youtube.com/embed/ugAYRV6ln8M" width="640" youtube-src-id="ugAYRV6ln8M"></iframe></div><br /><h4 style="text-align: left;"><br /></h4>
+It's been a while since I've published here. It's not for a lack of riding -- I've ridden more than ever this year. The reason is that I bought an Osmo Action 4 camera and am trying my hand at ride videos. Video editing has a steep learning curve, but I think I'm getting better. Here are a couple videos I produced in the past months.
+
+# An overnight trip to Beaver Dam, with headwind both ways
+
+{{< youtube id="y50Bm1LalyI" title="An overnight trip to Beaver Dam, with headwind both ways" >}}
+
+# The Great Sauk State Trail
+
+{{< youtube id="J4YbhxlLPuk" title="The Great Sauk State Trail" >}}
+
+# My first Permanent in 2024
+
+{{< youtube id="pj9vPz5RY3Y" title="My first Permanent in 2024" >}}
+
+# Madison to Chicago and back, by train and fixed gear bike
+
+{{< youtube id="5VXlzusTITA" title="Madison to Chicago and back, part 1" >}}
+
+{{< youtube id="ugAYRV6ln8M" title="Madison to Chicago and back, part 2" >}}
