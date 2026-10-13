@@ -4,29 +4,40 @@ date = 2024-12-29T15:38:00+00:00
 lastmod = 2024-12-29T15:38:26.733000+00:00
 url = "/2024/12/tried-and-liked-2024.html"
 slug = "tried-and-liked-2024"
-tags = ["Alps", "Ortlieb", "review", "Wahoo", "tried and liked"]
+tags = ["Alps", "Ortlieb", "review", "Wahoo", "tried and liked", "fenders"]
+[cover]
+  image = "/images/PXL_20240427_211231639.jpg"
+  alt = "A seat bag drooping over the rear wheel"
 +++
 
-<p>&nbsp;I thought I didn't have a lot for this year's edition of tried-and-liked. But once you get going, things add up.</p><h3 style="text-align: left;">Tried and liked</h3><div><ul style="text-align: left;"><li><a href="https://amzn.to/3ZZic0G">Ortlieb Seat Pack (16.5l)</a>: For a bike touring adventure (see 
-below), I needed a big seat bag to supplement my front rando bag. The 
-Ortlieb works well on my tall low-trail bike with an almost level top 
-tube. However, I have juuust enough seat post showing to make it work. I also got to experience the droopy behavior that I had read about. It happens when the bag is not packed tightly enough (and you can buy accessory straps to prevent it). But my bike is tall enough that there is no risk of the bag touching the rear wheel</li></ul><p><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="/images/PXL_20240427_211231639.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="3072" data-original-width="4080" height="482" src="/images/PXL_20240427_211231639.jpg" width="640" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Droopy seat bag<br /></td></tr></tbody></table><br />&nbsp;<br /></p></div><div><ul style="text-align: left;"><li>Bike touring the Alps. Went on an 11-day trips through the Alps with a 
-friend. We packed light and slept in hotels and it was amazing.<div class="separator" style="clear: both; text-align: center;"><a href="/images/PXL_20240717_110821610.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2736" data-original-width="3648" height="480" src="/images/PXL_20240717_110821610.jpg" width="640" /></a></div><br /></li></ul></div><div><ul style="text-align: left;"><li>Taking videos of rides: In prep for the Alps trip, I bought a <a href="https://amzn.to/4fDpDjO">DJI Action 4</a> cam and worked on my editing skills. Editing takes a lot of 
-time, but it's also a fun way to reminisce about your rides. Here's my 
-little YouTube channel <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/@ride-or-pie&amp;source=gmail&amp;ust=1735571889338000&amp;usg=AOvVaw2SluZuZQCK32OdYEggcaXq" href="https://www.youtube.com/@ride-or-pie" rel="nofollow" target="_blank">https://www.youtube.com/@ride-or-pie</a> </li></ul></div><div><ul style="text-align: left;"><li><a href="https://www.renehersecycles.com/shop/equipment/tools/nuda-ultralight-carbon-minipump/">Rene Herse Nuda mini pump</a>: It's amazingly light and small, and it 
-worked well enough when I had a flat on my skinny tire road bike.</li></ul></div><div><ul style="text-align: left;"><li>Selling a couple bikes/frames: I sold a record number of bikes, that is, three, this 
-year. It felt good to pass on bikes that didn't get ridden/loved enough.</li></ul></div><div><ul style="text-align: left;"><li>Replacing the battery on my Wahoo Elemnt: Repairing things that are probably 
-not really meant to be repaired is very satisfying. The computer is five
- years old now and I don't feel a strong urge to upgrade now that the 
-battery capacity has been restored.</li></ul></div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="/images/PXL_20240609_231514790.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="4080" data-original-width="3072" height="400" src="/images/PXL_20240609_231514790.jpg" width="301" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Wahoo surgery<br /></td></tr></tbody></table><br /><div><br /></div><div><br /></div><h3 style="text-align: left;">To be determined<br /></h3><div><ul style="text-align: left;"><li><a href="https://amzn.to/4gyO9Ee">Ass Savers Win Wing fenders</a>: I bought these recently and have had only 
-one or two wet rides to test them with. Easy to install, extremely 
-light, and they do seem to work.&nbsp;</li></ul></div><div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="/images/PXL_20241228_164025550.MP.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1816" data-original-width="1815" height="400" src="/images/PXL_20241228_164025550.MP.jpg" width="400" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Ass Savers Win Wing fender<br /></td></tr></tbody></table><br />&nbsp;</div><div><br /></div><div><ul style="text-align: left;"><li>Chain waxing: I hopped
- on the wax train this fall, with a cheap used crock pot setup. The process is not too bad and I like the 
-results immediately after waxing. But it seems that the drivetrain gets 
-noisy pretty quickly. I'm not sure if I can deal with the frequency of 
-rewaxing that seems to be required. Maybe <a href="https://amzn.to/40nZyRP">fancier equipment</a> would help? Probably not, though.</li></ul></div><div><ul style="text-align: left;"><li>Indievelo/TrainingPeaks 
-Virtual: A new-ish indoor training platform with a focus on racing. I 
-decided to give this a try instead of Zwift. I like the racing 
-experience better than Zwift so far, but it's still a small platform. So
- often you end up racing against bots. The bots are implemented very 
-well, though.</li></ul></div><h3 style="text-align: left;">&nbsp;</h3>
+I thought I didn't have a lot for this year's edition of tried-and-liked. But once you get going, things add up.
+
+# Tried and liked
+
+- [Ortlieb Seat Pack (16.5l)](https://amzn.to/3ZZic0G): For a bike touring adventure (see below), I needed a big seat bag to supplement my front rando bag. The Ortlieb works well on my tall low-trail bike with an almost level top tube. However, I have juuust enough seat post showing to make it work. I also got to experience the droopy behavior that I had read about. It happens when the bag is not packed tightly enough (and you can buy accessory straps to prevent it). But my bike is tall enough that there is no risk of the bag touching the rear wheel
+
+  ![A seat bag drooping over the rear wheel](/images/PXL_20240427_211231639.jpg)
+
+- Bike touring the Alps. Went on an 11-day trip through the Alps with a friend. We packed light and slept in hotels and it was amazing.
+
+  ![Selfie of Ben and me in front of a pass sign](/images/PXL_20240717_110821610.jpg)
+
+- Taking videos of rides: In prep for the Alps trip, I bought a [DJI Action 4](https://amzn.to/4fDpDjO) cam and worked on my editing skills. Editing takes a lot of time, but it's also a fun way to reminisce about your rides. Here's my little YouTube channel <https://www.youtube.com/@ride-or-pie>
+
+- [Rene Herse Nuda mini pump](https://www.renehersecycles.com/shop/equipment/tools/nuda-ultralight-carbon-minipump/): It's amazingly light and small, and it worked well enough when I had a flat on my skinny tire road bike.
+
+- Selling a couple bikes/frames: I sold a record number of bikes, that is, three, this year. It felt good to pass on bikes that didn't get ridden/loved enough.
+
+- Replacing the battery on my Wahoo Elemnt: Repairing things that are probably not really meant to be repaired is very satisfying. The computer is five years old now and I don't feel a strong urge to upgrade now that the battery capacity has been restored.
+
+  ![An opened up Wahoo bike computer with a removed battery next to it](/images/PXL_20240609_231514790.jpg)
+
+# To be determined
+
+- [Ass Savers Win Wing fenders](https://amzn.to/4gyO9Ee): I bought these recently and have had only one or two wet rides to test them with. Easy to install, extremely light, and they do seem to work.
+
+  ![Ass Savers Win Wing fender](/images/PXL_20241228_164025550.MP.jpg)
+
+- Chain waxing: I hopped on the wax train this fall, with a cheap used crock pot setup. The process is not too bad and I like the results immediately after waxing. But it seems that the drivetrain gets noisy pretty quickly. I'm not sure if I can deal with the frequency of rewaxing that seems to be required. Maybe [fancier equipment](https://amzn.to/40nZyRP) would help? Probably not, though.
+
+- Indievelo/TrainingPeaks Virtual: A new-ish indoor training platform with a focus on racing. I decided to give this a try instead of Zwift. I like the racing experience better than Zwift so far, but it's still a small platform. So often you end up racing against bots. The bots are implemented very well, though.
