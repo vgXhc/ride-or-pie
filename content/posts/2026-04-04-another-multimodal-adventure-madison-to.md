@@ -50,7 +50,7 @@ The Metra train is great for bringing on your bike: Most cars have a bike rack a
 
 ![The Chicago River and the skyscrapers surrounding it](images/PXL_20260329_130257387.RAW-01.jpg)
 
-# The way back
+## The way back
 
 ![A protected bike lane with a pedestrian crossing that has &quot;Look bike&quot; in all-caps stenciled onto it.](/images/PXL_20260329_125417328.RAW-01.jpg)
 
@@ -68,9 +68,9 @@ It is hard to convey how good a strong tailwind feels. You forget your tired leg
 
 I arrived back home after 5h 20 min, in an elated state of mind. These types of ride make me fall in love with biking over and over again. They're ridiculous, hard, easy, fun, memorable.
 
-# The stats
+## The stats
 
-## Madison to Harvard
+### Madison to Harvard
 
 - [Strava link](https://www.strava.com/activities/17891562779)
 - Distance: 134.06 km (83.3 mi)
@@ -78,7 +78,7 @@ I arrived back home after 5h 20 min, in an elated state of mind. These types of 
 - Elapsed time: 5:48:06
 - Average speed: 24.0 km/h (14.9 mph)
 
-## Harvard to Madison
+### Harvard to Madison
 
 - [Strava link(https://www.strava.com/activities/17906829564)
 - Distance 130.31 km (81.0 mi)

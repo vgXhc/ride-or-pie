@@ -5,6 +5,108 @@ lastmod = 2024-01-01T18:00:01.862000+00:00
 url = "/2023/12/2023-ride-highlights.html"
 slug = "2023-ride-highlights"
 tags = ["ride report", "year in review"]
+[cover]
+  image = "/images/PXL_20230623_222654054.jpg"
+  alt = "Four people riding on a bike path, shot from behind and low"
 +++
+It's 4:46 pm on New Year's Eve. Will I be able to put together a post with ride highlights for the year? Sure! No particular order. Just memorable rides, for one reason or the other.
 
-<p>&nbsp;It's 4:46 pm on New Year's Eve. Will I be able to put together a post with ride highlights for the year? Sure! No particular order. Just memorable rides, for one reason or the other.<br /></p><h2 style="text-align: left;">A 200k with Ben</h2><p>Ben and I have big plans. So <a href="http://www.strava.com/activities/9635327468">we rode my 200k permanent route together</a>. We probably went a little fast, had some mechanical and biomechanical issues, but overall it went well!</p><div class="separator" style="clear: both; text-align: center;"><a href="/images/PXL_20230812_111107228.MP.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2736" data-original-width="3648" height="480" src="/images/PXL_20230812_111107228.MP.jpg" width="640" /></a></div><br /><p><br /></p><h2 style="text-align: left;">Full Moon on a parking garage</h2><p>Not every memorable ride needs to be long. After a friend's birthday party I decided to explore a large new development. A new parking structure was still empty but kinda open. On top I got a great view and the full moon.&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="/images/PXL_20230604_022638798.NIGHT-EFFECTS.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3072" data-original-width="4080" height="482" src="/images/PXL_20230604_022638798.NIGHT-EFFECTS.jpg" width="640" /></a></div><br /><p><br /></p><h2 style="text-align: left;">Pick Me Up at the Border</h2><p>For the first time, I actually <a href="https://www.strava.com/activities/9902208499">rode all the way to the Illinois border and back on this ride</a>. As per usual, the weather was questionable, and I didn't actually enjoy the ride too much. But it was good to check this one off.&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="/images/PXL_20230923_000720549.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3648" data-original-width="2736" height="400" src="/images/PXL_20230923_000720549.jpg" width="300" /></a></div><p><br /></p><h2 style="text-align: left;">Birthday Ride for Nicole</h2><p>We <a href="http://www.strava.com/activities/9322549025">celebrated Nicole's birthday at Dot's Tavern, right off the Badger State Trail</a>. Beautiful evening/night ride.<br /></p><div class="separator" style="clear: both; text-align: center;"><a href="/images/PXL_20230623_222654054.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3072" data-original-width="4080" height="482" src="/images/PXL_20230623_222654054.jpg" width="640" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="/images/PXL_20230623_231515246.MP.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3072" data-original-width="4080" height="482" src="/images/PXL_20230623_231515246.MP.jpg" width="640" /></a></div><br /><p></p><h2 style="text-align: left;">Wright Stuff Century, extended version</h2><p>Another good one with Ben. The Wright Stuff Century used to start in Middleton, but this year the start was farther away, at Brigham County Park. Ben and I rode to the start from Madison and then did the "short" route.&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="/images/PXL_20230903_122032275.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2736" data-original-width="3648" height="480" src="/images/PXL_20230903_122032275.jpg" width="640" /></a></div><br /><p></p><h2 style="text-align: left;">Zugspitze mini golf<br /></h2><p>My riding in Germany was cut short because of injury. But this was a fabulous ride in the German Alps. I biked; Nicole took the train, and we met up for mini golf in the most spectacular setting.</p><div class="separator" style="clear: both; text-align: center;"><a href="/images/PXL_20230709_152210405.MP.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="4080" data-original-width="3072" height="400" src="/images/PXL_20230709_152210405.MP.jpg" width="301" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="/images/PXL_20230709_164755041.MP.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3648" data-original-width="2736" height="400" src="/images/PXL_20230709_164755041.MP.jpg" width="300" /></a></div><br /><p></p><h2 style="text-align: left;">A ride that shouldn't have happened</h2><p style="text-align: left;">Knees were wrecked from hiking and there was record heat. I <a href="https://www.strava.com/activities/9429238375">abandoned along the route</a> but probably shouldn't even have started.</p><div class="separator" style="clear: both; text-align: center;"><a href="/images/PXL_20230711_065338267.MP.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3072" data-original-width="4080" height="482" src="/images/PXL_20230711_065338267.MP.jpg" width="640" /></a></div><br /><p style="text-align: left;"><br /></p><h2 style="text-align: left;">Ride for your Life</h2><p>The biggest advocacy <a href="https://www.strava.com/activities/9958627557">ride</a> Madison has ever seen.</p><p></p><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/flAgCa3jhqg" width="320" youtube-src-id="flAgCa3jhqg"></iframe></div><br />&nbsp;<br /><p></p><h2 style="text-align: left;">Wind, mud, CX</h2><p style="text-align: left;">Like every year, <a href="https://www.strava.com/activities/10039423583">I rode to the Trek Cyclocross World Cup. </a>It was windy, wet, and muddy.&nbsp;</p><p style="text-align: left;"></p><div class="separator" style="clear: both; text-align: center;"><a href="/images/PXL_20231014_181906451.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3648" data-original-width="2736" height="400" src="/images/PXL_20231014_181906451.jpg" width="300" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="/images/PXL_20231014_190154205.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3072" data-original-width="4080" height="482" src="/images/PXL_20231014_190154205.jpg" width="640" /></a></div><h2 style="text-align: left;">MKE x MSN Sandhill Station Camping</h2><p style="text-align: left;">A meeting of urbanism/street safety/bike advocacy folks from Milwaukee and Madison. <a href="https://www.strava.com/activities/9284645271">Not quite at the halfway point</a>.</p><div class="separator" style="clear: both; text-align: center;"><a href="/images/PXL_20230618_142952462~2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3648" data-original-width="2736" height="400" src="/images/PXL_20230618_142952462~2.jpg" width="300" /></a></div><p style="text-align: left;"><br /></p><h2 style="text-align: left;">Fetch the Keg</h2><p style="text-align: left;">Madison Bike Week: Get beer donated from Hop Garden, pick up by bike. Make it a group ride. Suffer on the hills on your fixie.</p><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="/images/PXL_20230609_005647596.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="4032" data-original-width="3024" height="400" src="/images/PXL_20230609_005647596.jpg" width="300" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Credit: Ben Sandee<br /></td></tr></tbody></table><p style="text-align: left;"><br /></p><h2 style="text-align: left;">Kites on the Lake</h2><p style="text-align: left;">I didn't get many frozen lake rides in this year, but this was a good one. Kite festival on the Lake.</p><p style="text-align: left;"><br />&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="/images/DSC07596.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="4000" data-original-width="6000" height="426" src="/images/DSC07596.jpg" width="640" /></a></div><br /><p></p><h2 style="text-align: left;">Camping with Nicole</h2><p style="text-align: left;">Our tent leaked. It was a wonderful camping trip to Sandhill Station nonetheless.&nbsp;</p><p style="text-align: left;">&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="/images/PXL_20230916_184241704.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2689" data-original-width="2690" height="400" src="/images/PXL_20230916_184241704.jpg" width="400" /></a></div><br /><br /><p></p><h2 style="text-align: left;">Another 200k</h2><p style="text-align: left;"><a href="https://www.strava.com/activities/9733346744">Dipping into Illinois again</a> for some, uh, shopping and tile collecting.</p><p style="text-align: left;"></p><br /><div class="separator" style="clear: both; text-align: center;"><a href="/images/PXL_20230827_140041986.MP-EDIT.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2905" data-original-width="2906" height="400" src="/images/PXL_20230827_140041986.MP-EDIT.jpg" width="400" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="/images/PXL_20230827_190019438.MP.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2145" data-original-width="2146" height="640" src="/images/PXL_20230827_190019438.MP.jpg" width="640" /></a></div><br /><p style="text-align: left;"></p><h2 style="text-align: left;">&nbsp;Not the Ride Across Wisconsin but</h2><p style="text-align: left;">Went for a spontaneous <a href="https://www.strava.com/activities/9688188916">ride without a fixed route and ended up</a> on the Ride Across Wisconsin route, going the opposite direction. It was awesome to see the endless string of the people on the ride.</p><div class="separator" style="clear: both; text-align: center;"><a href="/images/PXL_20230820_170350740-EDIT.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2263" data-original-width="2265" height="400" src="/images/PXL_20230820_170350740-EDIT.jpg" width="400" /></a></div><br /><p style="text-align: left;"><br /></p>
+## A 200k with Ben
+
+Ben and I have big plans. So [we rode my 200k permanent route together](http://www.strava.com/activities/9635327468). We probably went a little fast, had some mechanical and biomechanical issues, but overall it went well!
+
+![On-bike selfie of me and Ben riding in the early morning light](/images/PXL_20230812_111107228.MP.jpg)
+
+## Full Moon on a parking garage
+
+Not every memorable ride needs to be long. After a friend's birthday party I decided to explore a large new development. A new parking structure was still empty but kinda open. On top I got a great view and the full moon.
+
+![My bike leaning against a concrete railing, with the moon rising behind it](/images/PXL_20230604_022638798.NIGHT-EFFECTS.jpg)
+
+## Pick Me Up at the Border
+
+For the first time, I actually [rode all the way to the Illinois border and back on this ride](https://www.strava.com/activities/9902208499). As per usual, the weather was questionable, and I didn't actually enjoy the ride too much. But it was good to check this one off.
+
+![A blurry selfie in the dark, me and a large group of people biking on the Badger State Trail](/images/PXL_20230923_000720549.jpg)
+
+## Birthday Ride for Nicole
+
+We [celebrated Nicole's birthday at Dot's Tavern, right off the Badger State Trail](http://www.strava.com/activities/9322549025). Beautiful evening/night ride.
+
+![Four people riding on a bike path, shot from behind and low](/images/PXL_20230623_222654054.jpg)
+
+![Four happy people sittin at a table on Dot's patio](/images/PXL_20230623_231515246.MP.jpg)
+
+## Wright Stuff Century, extended version
+
+Another good one with Ben. The Wright Stuff Century used to start in Middleton, but this year the start was farther away, at Brigham County Park. Ben and I rode to the start from Madison and then did the "short" route.
+
+![Ride selfie of me, Ben, and Liz](/images/PXL_20230903_122032275.jpg)
+
+## Zugspitze mini golf
+
+My riding in Germany was cut short because of injury. But this was a fabulous ride in the German Alps. I biked; Nicole took the train, and we met up for mini golf in the most spectacular setting.
+
+![Nicole playing mini golf with a high Alpine mountain backdrop](/images/PXL_20230709_152210405.MP.jpg)
+
+![Ride selfie of me in a tank top, sun glasses, flat brim hat. High mountains in the background](/images/PXL_20230709_164755041.MP.jpg)
+
+## A ride that shouldn't have happened
+
+Knees were wrecked from hiking and there was record heat. I [abandoned along the route](https://www.strava.com/activities/9429238375) but probably shouldn't even have started.
+
+![A 20% incline sign on a narrow straight road](/images/PXL_20230711_065338267.MP.jpg)
+
+## Ride for your Life
+
+The biggest advocacy [ride](https://www.strava.com/activities/9958627557) Madison has ever seen.
+
+{{< youtube id="flAgCa3jhqg" title="Ride for your Life" >}}
+
+## Wind, mud, CX
+
+Like every year, [I rode to the Trek Cyclocross World Cup.](https://www.strava.com/activities/10039423583) It was windy, wet, and muddy.
+
+![Selfie of me in a wool cycling cap. Behind me a very muddy CX course and a racer](/images/PXL_20231014_181906451.jpg)
+
+![A CX racer in a stars-and-stripes jersey riding through a big puddle/mud pit](/images/PXL_20231014_190154205.jpg)
+
+## MKE x MSN Sandhill Station Camping
+
+A meeting of urbanism/street safety/bike advocacy folks from Milwaukee and Madison. [Not quite at the halfway point](https://www.strava.com/activities/9284645271).
+
+![Ride selfie on the Glacial Drumlin Trail. Four rider with camping gear are following me](/images/PXL_20230618_142952462~2.jpg)
+
+## Fetch the Keg
+
+Madison Bike Week: Get beer donated from Hop Garden, pick up by bike. Make it a group ride. Suffer on the hills on your fixie.
+
+![Me hauling a keg of beer on my bike](/images/PXL_20230609_005647596.jpg)
+
+Photo credit: Ben Sandee
+
+## Kites on the Lake
+
+I didn't get many frozen lake rides in this year, but this was a good one. Kite festival on the Lake.
+
+![My fat bike standing on frozen Lake Mendota. Lots of kites in the air.](/images/DSC07596.jpg)
+
+## Camping with Nicole
+
+Our tent leaked. It was a wonderful camping trip to Sandhill Station nonetheless.
+
+![Nicole and her bike and my bike in front of the entrance to a small town hall.](/images/PXL_20230916_184241704.jpg)
+
+## Another 200k
+
+[Dipping into Illinois again](https://www.strava.com/activities/9733346744) for some, uh, shopping and tile collecting.
+
+![Historic Marling Lumber Co. building wit yellow signage on green siding.](/images/PXL_20230827_140041986.MP-EDIT.jpg)
+
+![Three fence posts. One has a Wienermobile on it, the other a carousel horse](/images/PXL_20230827_190019438.MP.jpg)
+
+## Not the Ride Across Wisconsin but
+
+Went for a spontaneous [ride without a fixed route and ended up](https://www.strava.com/activities/9688188916) on the Ride Across Wisconsin route, going the opposite direction. It was awesome to see the endless string of the people on the ride.
+
+![A straight country road with a long string of cyclists riding toward the camera.](/images/PXL_20230820_170350740-EDIT.jpg)
