@@ -10,8 +10,6 @@ tags = ["VeloSamba", "review", "shoes", "Adidas"]
   alt = "On-bike shot of white Velosamba bike shoe"
 +++
 
-![On-bike shot of the shoe](/images/PXL_20230401_223620269~2.jpg)
-
 For years, my casual cycling shoe of choice was the [Giro Rumble VR; affiliate link](https://amzn.to/3Kkaerg). I extensively reviewed [the shoes on this blog](https://ride-or-pie.netlify.app/2017/05/giro-rumble-vr-review-one-year-out.html). While I've had my complaints about them, on balance they were a great shoe and the ended up lasting longer than I thought. I actually still have an unused spare pair in the closet. But when it was time to retire the current pair, I was curious to try something different.
 
 ![Top view of the shoes](/images/DSC07730.jpg)
