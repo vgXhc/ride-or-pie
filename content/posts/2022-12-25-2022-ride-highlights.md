@@ -5,6 +5,9 @@ lastmod = 2022-12-25T21:42:37.587000+00:00
 url = "/2022/12/2022-ride-highlights.html"
 slug = "2022-ride-highlights"
 tags = ["ride report", "year in review"]
+[cover]
+  image = "/images/IMG_20220513_124204827_HDR.jpg"
+  alt = "My bike leaning against a \"road closed\" gate"
 +++
 
 It's Christmas and I just finished reading the latest issue of *Bicycle Quarterly*. It's the 20th anniversary issue and looks back at highlights from the past two decades. And two days ago I listened to the end-of-year episode of bike podcast *Antritt*, which also looked back at the year. So now it's time to look back at my bike year and review some highlights.
