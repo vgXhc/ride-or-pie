@@ -99,13 +99,13 @@ There were a few other amazing rides in Germany: An after-work ride to a vine ba
 
 ## Fake records
 
-![Jacob zipping up his rain jacket under a gas station canopy, with our two bikes leaning](images/dodgeville-gas-station.jpg)
+![Jacob zipping up his rain jacket under a gas station canopy, with our two bikes leaning](/images/dodgeville-gas-station.jpg)
 
 Once back in the US, I had some repentance to do. Many months ago I had made up a story about a historical event: In the late 19th century, a man named John D. Cannonball wanted to demonstrate the superiority of the highwheeler over the safety bicycle by breaking the previous record for riding from Dodgeville to Madison. My fake was a little bit too convincing and a friend scheduled an event to commemorate the historic ride. We decided to keep the ride on the calendar and of course I felt compelled to participate. So Jacob and I biked to Dodgeville (and got soaked by a thunderstorm) and then rode back to Madison as fast as we could. I think this should become an annual event...
 
 [Strava link](http://www.strava.com/activities/7633235100)
 
-![Jacob and his bike at the end of the Cannonball trail](images/cannonball-finish.jpg)
+![Jacob and his bike at the end of the Cannonball trail](/images/cannonball-finish.jpg)
 
 ## Wright Stuff Century
 
