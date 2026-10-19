@@ -21,7 +21,9 @@ again, and this stays correct wherever the shortcode is rendered.
 {{- $id = string $id }}
 {{- if findRE `^\d+$` $id }}
 {{- /* Render. */ -}}
+<div class="strava-embed" style="{{ "margin: 1.5rem 0;" | safeCSS }}">
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="{{ $id }}" data-style="standard" data-from-embed="false"></div>
+</div>
 <script src="https://strava-embeds.com/embed.js"></script>
 {{- else }}
 {{- errorf "The %q shortcode requires a numeric Strava activity id, got %q. See %s" $.Name $id $.Position }}

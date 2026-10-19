@@ -29,5 +29,3 @@ It's been a while since I've published here. It's not for a lack of riding -- I'
 {{< youtube id="5VXlzusTITA" title="Madison to Chicago and back, part 1" >}}
 
 {{< youtube id="ugAYRV6ln8M" title="Madison to Chicago and back, part 2" >}}
-
-{{< strava 7494909117>}}

@@ -17,6 +17,8 @@ Ben and I have big plans. So [we rode my 200k permanent route together](http://w
 
 ![On-bike selfie of me and Ben riding in the early morning light](/images/PXL_20230812_111107228.MP.jpg)
 
+{{<strava 9635327468>}}
+
 ## Full Moon on a parking garage
 
 Not every memorable ride needs to be long. After a friend's birthday party I decided to explore a large new development. A new parking structure was still empty but kinda open. On top I got a great view and the full moon.
@@ -28,6 +30,8 @@ Not every memorable ride needs to be long. After a friend's birthday party I dec
 For the first time, I actually [rode all the way to the Illinois border and back on this ride](https://www.strava.com/activities/9902208499). As per usual, the weather was questionable, and I didn't actually enjoy the ride too much. But it was good to check this one off.
 
 ![A blurry selfie in the dark, me and a large group of people biking on the Badger State Trail](/images/PXL_20230923_000720549.jpg)
+
+{{strava 9902208499}}
 
 ## Birthday Ride for Nicole
 
@@ -56,6 +60,8 @@ My riding in Germany was cut short because of injury. But this was a fabulous ri
 Knees were wrecked from hiking and there was record heat. I [abandoned along the route](https://www.strava.com/activities/9429238375) but probably shouldn't even have started.
 
 ![A 20% incline sign on a narrow straight road](/images/PXL_20230711_065338267.MP.jpg)
+
+{{strava 9429238375}}
 
 ## Ride for your Life
 
@@ -104,6 +110,8 @@ Our tent leaked. It was a wonderful camping trip to Sandhill Station nonetheless
 ![Historic Marling Lumber Co. building wit yellow signage on green siding.](/images/PXL_20230827_140041986.MP-EDIT.jpg)
 
 ![Three fence posts. One has a Wienermobile on it, the other a carousel horse](/images/PXL_20230827_190019438.MP.jpg)
+
+{{strava 9733346744}}
 
 ## Not the Ride Across Wisconsin but
 
