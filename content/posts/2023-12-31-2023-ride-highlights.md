@@ -31,7 +31,7 @@ For the first time, I actually [rode all the way to the Illinois border and back
 
 ![A blurry selfie in the dark, me and a large group of people biking on the Badger State Trail](/images/PXL_20230923_000720549.jpg)
 
-{{strava 9902208499}}
+{{<strava 9902208499>}}
 
 ## Birthday Ride for Nicole
 
@@ -61,7 +61,7 @@ Knees were wrecked from hiking and there was record heat. I [abandoned along the
 
 ![A 20% incline sign on a narrow straight road](/images/PXL_20230711_065338267.MP.jpg)
 
-{{strava 9429238375}}
+{{<strava 9429238375>}}
 
 ## Ride for your Life
 
@@ -111,7 +111,7 @@ Our tent leaked. It was a wonderful camping trip to Sandhill Station nonetheless
 
 ![Three fence posts. One has a Wienermobile on it, the other a carousel horse](/images/PXL_20230827_190019438.MP.jpg)
 
-{{strava 9733346744}}
+{{<strava 9733346744>}}
 
 ## Not the Ride Across Wisconsin but
 
