@@ -1,5 +1,6 @@
 +++
 title = "Coffeeneuring 2025: Six weeks, seven rides"
+description = "Ride reports from my 2025 coffeeneuring season"
 date = 2025-11-27T16:10:00+00:00
 lastmod = 2025-11-27T16:10:36.249000+00:00
 url = "/2025/11/coffeeneuring-2025-six-weeks-seven-rides.html"
@@ -18,7 +19,7 @@ A mostly overcast fall day took me out to Cross Plains. I'd been to Crossroads C
 
 [65 km / 40 miles](https://www.strava.com/activities/16121545776)
 
-<div class="strava-embed-placeholder" data-embed-id="16121545776" data-embed-type="activity" data-from-embed="false" data-style="standard"></div>
+<div class="strava-embed-placeholder" data-embed-id="16121545776" data-embed-type="activity" data-from-embed="false" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ![An empty country road with rolling hills](/images/634f2d7a3d8a2b9d.jpg)
 ![An empty uphill country road. The sky is mostly overcast](/images/0bd77cd095021609.jpg)
@@ -30,7 +31,7 @@ My favorite coffee shop in Oregon, Firefly, changed their hours last year and is
 
 [70 km / 43 mi](https://www.strava.com/activities/16270941144)
 
-<div class="strava-embed-placeholder" data-embed-id="16270941144" data-embed-type="activity" data-from-embed="false" data-style="standard"></div>
+<div class="strava-embed-placeholder" data-embed-id="16270941144" data-embed-type="activity" data-from-embed="false" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ![A collage of photos of gradient warning signs on a bike path](/images/5364e9c8b2aa49dd.png)
 
@@ -47,7 +48,7 @@ The third ride was the first one to take me to a new coffee shop: Grace in Veron
 
 [44 km / 27 mi](https://www.strava.com/activities/16325550862)
 
-<div class="strava-embed-placeholder" data-embed-id="16325550862" data-embed-type="activity" data-from-embed="false" data-style="standard"></div>
+<div class="strava-embed-placeholder" data-embed-id="16325550862" data-embed-type="activity" data-from-embed="false" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ## Ride 4: Liv's Drink Emporium in Sun Prairie
 
@@ -58,7 +59,7 @@ I wasn't sure if I'd been here before: I remembered a coffeeneuring ride to this
 
 [65 km / 40 mi](https://www.strava.com/activities/16336048939)
 
-<div class="strava-embed-placeholder" data-embed-id="16336048939" data-embed-type="activity" data-from-embed="false" data-style="standard"></div>
+<div class="strava-embed-placeholder" data-embed-id="16336048939" data-embed-type="activity" data-from-embed="false" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ## Ride 5: Alice Good in Verona
 
@@ -70,7 +71,7 @@ Another ride to Verona, but this time to a shop I'd been to before: Alice Good. 
 
 [45 km / 28 mi](https://www.strava.com/activities/16388471687)
 
-<div class="strava-embed-placeholder" data-embed-id="16388471687" data-embed-type="activity" data-from-embed="false" data-style="standard"></div>
+<div class="strava-embed-placeholder" data-embed-id="16388471687" data-embed-type="activity" data-from-embed="false" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ## Ride 6: Fat Cat Coffee Works in New Glarus
 
@@ -82,7 +83,7 @@ Mid November. But warm enough to wear knickers and sit outside, with a cold brew
 
 [108 km / 67 mi](https://www.strava.com/activities/16458810542)
 
-<div class="strava-embed-placeholder" data-embed-id="16458810542" data-embed-type="activity" data-from-embed="false" data-style="standard"></div>
+<div class="strava-embed-placeholder" data-embed-id="16458810542" data-embed-type="activity" data-from-embed="false" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ## Ride 7: Barriques in Middleton
 
@@ -94,4 +95,4 @@ My buddy Ben had sold me on a new Zwift race series, schedule at 7:45 am on Sund
 
 [26 km / 16 mi](https://www.strava.com/activities/16547155782)
 
-<div class="strava-embed-placeholder" data-embed-id="16547155782" data-embed-type="activity" data-from-embed="false" data-style="standard"></div>
+<div class="strava-embed-placeholder" data-embed-id="16547155782" data-embed-type="activity" data-from-embed="false" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
