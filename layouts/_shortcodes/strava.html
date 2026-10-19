@@ -1,2 +1,31 @@
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="(.Get 0)" data-style="standard" data-from-embed="false"></div>
+{{- /*
+
+Renders an embedded Strava activity.
+
+@param {string} [id] The Strava activity id (digits only). Optional if the id is the first and only positional argument.
+
+@returns {template.HTML}
+
+@example {{< strava 16121545776 >}}
+
+@example {{< strava id=16121545776 >}}
+
+Strava's embed.js replaces every ".strava-embed-placeholder" element that exists
+at the moment it runs, so the script follows each placeholder (as in Strava's own
+snippet) instead of being loaded once. Already-replaced embeds are not touched
+again, and this stays correct wherever the shortcode is rendered.
+
+*/}}
+
+{{- with $id := or (.Get "id") (.Get 0) }}
+{{- $id = string $id }}
+{{- if findRE `^\d+$` $id }}
+{{- /* Render. */ -}}
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="{{ $id }}" data-style="standard" data-from-embed="false"></div>
 <script src="https://strava-embeds.com/embed.js"></script>
+{{- else }}
+{{- errorf "The %q shortcode requires a numeric Strava activity id, got %q. See %s" $.Name $id $.Position }}
+{{- end }}
+{{- else }}
+{{- errorf "The %q shortcode requires an id argument. See %s" .Name .Position }}
+{{- end }}
