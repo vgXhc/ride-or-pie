@@ -9,7 +9,7 @@ pygmentsUseClasses = true
 [params]
   env = "production"
   title = "Ride or Pie?!"
-  description = "A bicycle blog from Madison (Wisconsin), with ride reports, reviews of bike components and accessories, and the occasional bicycle advocacy post."
+  description = "A bicycle blog from Madison (Wisconsin), with ride reports, reviews of bike components and accessories, and the occasional bicycle advocacy post. Some links are Amazon affiliate links."
   keywords = ["blog", "cycling", "bicycle", "Madison", "Wisconsin", "touring", "randonneuring"]
   author = "Hobbes vs Boyle"
   DateFormat = "January 2, 2006"
