@@ -95,4 +95,4 @@ Now it's time to get into the valley. From my earlier ride of the this side of t
 
 ![Selfie with celebratory generic can of beer in a park](/images/IMG_20220719_143321868_HDR.jpg)
 
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="7494909117" data-style="standard" data-from-embed="false" data-token="hNDbChCm6dwF6-Re91DElBtzRMKMULMnIEFZflpNajU"></div><script src="https://strava-embeds.com/embed.js"></script>
+{{<strava 7494909117>}}
