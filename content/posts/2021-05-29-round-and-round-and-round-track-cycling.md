@@ -1,5 +1,6 @@
 +++
-title = "Round and round and round: Track cycling 101 at the Kenosha Velodrome"
+title = "Round and round and round"
+description = "A Track cycling 101 at the Kenosha Velodrome"
 date = 2021-05-29T01:17:00.002000+00:00
 lastmod = 2021-05-29T01:17:15.648000+00:00
 url = "/2021/05/round-and-round-and-round-track-cycling.html"
